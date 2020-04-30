@@ -1,0 +1,489 @@
+31-Mar-2020-08:03:07 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-08:05:59 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-08:28:29 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-08:30:35 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-08:31:09 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-08:31:32 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:31:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:31:37 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxFirstName
+31-Mar-2020-08:31:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:31:37 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxLastName
+31-Mar-2020-08:31:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:31:37 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:31:38 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [TakeScreenShot1] -  ScreenShot Taken : Screen2020-03-31-31-38.jpeg
+31-Mar-2020-08:31:38 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:31:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:31:44 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxFirstName
+31-Mar-2020-08:31:44 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:31:44 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxLastName
+31-Mar-2020-08:31:44 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:31:44 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:31:44 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [TakeScreenShot1] -  ScreenShot Taken : Screen2020-03-31-31-44.jpeg
+31-Mar-2020-08:35:48 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-08:35:53 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:35:58 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:35:58 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxKapil
+31-Mar-2020-08:35:58 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:35:58 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-08:35:58 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:35:58 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:35:58 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [TakeScreenShot1] -  ScreenShot Taken : Screen2020-03-31-35-58.jpeg
+31-Mar-2020-08:35:59 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:36:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:36:04 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-08:36:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:36:04 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-08:36:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:36:05 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:36:05 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [TakeScreenShot1] -  ScreenShot Taken : Screen2020-03-31-36-05.jpeg
+31-Mar-2020-08:39:22 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-08:39:27 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:39:33 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:39:33 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxKapil
+31-Mar-2020-08:39:33 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:39:33 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-08:39:33 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:39:33 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:39:33 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [TakeScreenShot1] -  ScreenShot Taken : Screen2020-03-31-39-33.jpeg
+31-Mar-2020-08:39:34 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:39:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:39:39 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-08:39:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:39:39 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-08:39:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:39:40 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:39:40 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [TakeScreenShot1] -  ScreenShot Taken : Screen2020-03-31-39-40.jpeg
+31-Mar-2020-08:39:41 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:39:46 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:39:46 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJyoti
+31-Mar-2020-08:39:46 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:39:46 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxMavi
+31-Mar-2020-08:39:46 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:39:46 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:39:47 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [TakeScreenShot1] -  ScreenShot Taken : Screen2020-03-31-39-47.jpeg
+31-Mar-2020-08:39:47 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:39:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:39:52 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBest
+31-Mar-2020-08:39:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:39:53 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJhony
+31-Mar-2020-08:39:53 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:39:53 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:39:53 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [TakeScreenShot1] -  ScreenShot Taken : Screen2020-03-31-39-53.jpeg
+31-Mar-2020-08:39:54 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:39:59 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:39:59 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-08:39:59 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:39:59 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-08:39:59 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:39:59 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:40:00 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [TakeScreenShot1] -  ScreenShot Taken : Screen2020-03-31-40-00.jpeg
+31-Mar-2020-08:40:01 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:40:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:40:06 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-08:40:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:40:06 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-08:40:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:40:06 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:40:06 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [TakeScreenShot1] -  ScreenShot Taken : Screen2020-03-31-40-06.jpeg
+31-Mar-2020-08:52:19 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-08:52:36 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:52:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:52:41 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxKapil
+31-Mar-2020-08:52:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:52:41 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-08:52:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:52:41 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:52:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-08:52:44 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-08:52:49 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-08:52:51 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-08:52:51 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:52:56 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:52:57 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-08:52:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:52:57 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-08:52:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:52:57 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:52:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-08:53:00 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-08:53:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-08:53:07 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-08:53:08 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:53:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:53:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJyoti
+31-Mar-2020-08:53:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:53:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxMavi
+31-Mar-2020-08:53:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:53:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:53:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-08:53:17 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-08:53:22 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-08:53:24 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-08:53:24 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:53:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:53:30 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBest
+31-Mar-2020-08:53:30 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:53:30 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJhony
+31-Mar-2020-08:53:30 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:53:30 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:53:30 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-08:53:31 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-08:53:36 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-08:53:38 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-08:53:38 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:53:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:53:44 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-08:53:44 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:53:44 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-08:53:44 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:53:44 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:53:44 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-08:53:47 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-08:53:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-08:53:54 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-08:53:55 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-08:54:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-08:54:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-08:54:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-08:54:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-08:54:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-08:54:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-08:54:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-08:54:04 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-08:54:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-08:54:10 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:00:46 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-09:00:54 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:00:59 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:01:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxKapil
+31-Mar-2020-09:01:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:01:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-09:01:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:01:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:01:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:01:02 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:01:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:01:08 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:01:09 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:01:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:01:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-09:01:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:01:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-09:01:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:01:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:01:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:01:16 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:01:21 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:01:23 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:01:24 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:01:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:01:29 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJyoti
+31-Mar-2020-09:01:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:01:29 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxMavi
+31-Mar-2020-09:01:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:01:30 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:01:30 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:01:31 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:01:36 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:01:38 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:01:38 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:01:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:01:43 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBest
+31-Mar-2020-09:01:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:01:44 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJhony
+31-Mar-2020-09:01:44 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:01:44 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:01:44 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:01:46 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:01:51 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:01:53 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:01:54 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:01:59 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:01:59 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-09:01:59 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:02:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-09:02:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:02:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:02:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:02:01 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:02:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:02:07 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:02:08 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:02:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:02:13 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-09:02:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:02:13 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-09:02:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:02:13 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:02:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:02:15 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:02:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:02:21 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:11:26 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-09:11:34 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:11:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:11:39 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxKapil
+31-Mar-2020-09:11:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:11:39 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-09:11:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:11:39 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:11:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:11:41 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:11:46 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:11:48 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:11:48 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:11:53 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:11:54 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-09:11:54 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:11:54 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-09:11:54 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:11:54 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:11:54 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:11:56 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:12:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:12:02 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:12:03 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:12:08 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:12:08 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJyoti
+31-Mar-2020-09:12:08 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:12:08 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxMavi
+31-Mar-2020-09:12:08 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:12:09 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:12:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:12:10 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:12:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:12:17 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:12:17 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:12:22 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:12:23 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBest
+31-Mar-2020-09:12:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:12:23 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJhony
+31-Mar-2020-09:12:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:12:23 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:12:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:12:24 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:12:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:12:31 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:12:32 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:12:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:12:37 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-09:12:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:12:37 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-09:12:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:12:37 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:12:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:12:39 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:12:44 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:12:46 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:12:47 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-09:12:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-09:12:52 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-09:12:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-09:12:52 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-09:12:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-09:12:53 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-09:12:53 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-09:12:54 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-09:12:59 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-09:13:01 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:29:28 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-10:29:32 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:29:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:29:37 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxKapil
+31-Mar-2020-10:29:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:29:38 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-10:29:38 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:29:38 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:29:38 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:29:40 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:29:45 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:29:46 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:29:47 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:29:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:29:52 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-10:29:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:29:52 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-10:29:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:29:52 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:29:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:29:53 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:29:58 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:30:00 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:30:00 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:30:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:30:05 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJyoti
+31-Mar-2020-10:30:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:30:05 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxMavi
+31-Mar-2020-10:30:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:30:06 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:30:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:30:08 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:30:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:30:14 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:30:15 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:30:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:30:20 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBest
+31-Mar-2020-10:30:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:30:20 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJhony
+31-Mar-2020-10:30:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:30:20 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:30:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:30:22 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:30:27 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:30:28 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:30:29 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:30:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:30:34 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-10:30:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:30:34 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-10:30:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:30:34 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:30:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:30:36 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:30:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:30:43 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:30:43 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:30:48 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:30:49 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-10:30:49 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:30:49 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-10:30:49 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:30:49 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:30:49 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:30:52 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:30:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:30:58 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:36:36 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-10:36:41 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:36:46 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:36:46 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxKapil
+31-Mar-2020-10:36:46 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:36:46 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-10:36:46 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:36:46 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:36:46 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:36:47 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:36:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:36:53 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:36:54 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:36:59 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:37:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-10:37:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:37:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-10:37:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:37:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:37:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:37:01 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:37:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:37:08 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:37:09 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:37:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:37:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJyoti
+31-Mar-2020-10:37:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:37:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxMavi
+31-Mar-2020-10:37:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:37:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:37:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:37:16 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:37:21 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:37:23 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:37:24 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:37:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:37:29 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBest
+31-Mar-2020-10:37:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:37:29 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJhony
+31-Mar-2020-10:37:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:37:29 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:37:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:37:30 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:37:35 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:37:37 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:37:37 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:37:42 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:37:42 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-10:37:42 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:37:43 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-10:37:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:37:43 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:37:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:37:45 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:37:50 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:37:51 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:37:51 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:37:56 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:37:56 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxasdjfjs
+31-Mar-2020-10:37:56 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:37:56 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxsabdjfjkas
+31-Mar-2020-10:37:56 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:37:56 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox899273972
+31-Mar-2020-10:37:56 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:37:58 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:38:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:38:04 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:38:50 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+31-Mar-2020-10:38:55 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:39:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:39:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxKapil
+31-Mar-2020-10:39:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:39:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-10:39:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:39:01 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:39:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:39:02 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:39:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:39:09 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:39:09 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:39:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:39:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-10:39:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:39:15 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxSingh
+31-Mar-2020-10:39:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:39:15 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:39:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:39:17 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:39:22 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:39:23 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:39:24 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:39:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:39:29 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJyoti
+31-Mar-2020-10:39:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:39:29 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxMavi
+31-Mar-2020-10:39:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:39:29 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:39:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:39:31 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:39:36 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:39:37 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:39:38 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:39:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:39:43 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBest
+31-Mar-2020-10:39:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:39:43 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxJhony
+31-Mar-2020-10:39:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:39:44 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:39:44 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:39:45 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:39:50 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:39:52 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:39:52 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:39:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:39:57 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRahul
+31-Mar-2020-10:39:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:39:58 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBisht
+31-Mar-2020-10:39:58 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:39:58 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox8527515427
+31-Mar-2020-10:39:58 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:40:01 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:40:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:40:07 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:40:08 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://demo.guru99.com/test/newtours/register.php
+31-Mar-2020-10:40:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: firstName
+31-Mar-2020-10:40:13 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxasdjfjs
+31-Mar-2020-10:40:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: lastName
+31-Mar-2020-10:40:13 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxsabdjfjkas
+31-Mar-2020-10:40:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: phone
+31-Mar-2020-10:40:13 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox899273972
+31-Mar-2020-10:40:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Name: submit
+31-Mar-2020-10:40:15 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.Name: submit
+31-Mar-2020-10:40:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()='REGISTER']
+31-Mar-2020-10:40:21 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[text()='REGISTER']
