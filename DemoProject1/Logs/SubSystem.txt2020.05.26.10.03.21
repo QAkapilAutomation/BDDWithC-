@@ -1,0 +1,22 @@
+26-May-2020-10:03:27 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+26-May-2020-10:03:31 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+26-May-2020-10:03:31 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://sandbox-doc-temp-frontend.s3-website-us-east-1.amazonaws.com/
+26-May-2020-10:03:31 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+26-May-2020-10:03:32 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:34 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:35 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:37 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:38 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:40 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:41 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:43 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:45 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:46 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:48 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:49 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:51 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:52 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:54 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:55 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:57 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+26-May-2020-10:03:58 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']

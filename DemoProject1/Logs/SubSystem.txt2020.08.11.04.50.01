@@ -1,0 +1,57 @@
+11-Aug-2020-04:50:01 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:02 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:04 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:05 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:07 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:09 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:10 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:12 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:13 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:15 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:16 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:18 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:19 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-04:50:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-04:50:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-04:50:20 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:50:25 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button//span[text()=' Merge & Email ']
+11-Aug-2020-04:50:25 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-04:50:25 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-04:50:25 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //button//span[text()=' Merge & Email ']
+11-Aug-2020-04:50:25 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='from']
+11-Aug-2020-04:50:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-04:50:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-04:50:34 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //input[@name='from']
+11-Aug-2020-04:50:36 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: (//mat-chip/i)[1]
+11-Aug-2020-04:50:36 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,160)
+11-Aug-2020-04:50:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='from']
+11-Aug-2020-04:50:37 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxa1@gmail.com
+11-Aug-2020-04:50:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='toEmail']
+11-Aug-2020-04:50:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-04:50:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-04:50:37 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //input[@name='toEmail']
+11-Aug-2020-04:50:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: (//mat-chip/i)[2]
+11-Aug-2020-04:50:37 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,251)
+11-Aug-2020-04:50:38 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='toEmail']
+11-Aug-2020-04:50:38 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxa1@gmail.com
+11-Aug-2020-04:50:38 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Cc']
+11-Aug-2020-04:50:38 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-04:50:38 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-04:50:38 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //input[@placeholder='Cc']
+11-Aug-2020-04:50:38 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: (//mat-chip/i)[3]
+11-Aug-2020-04:50:38 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,312)
+11-Aug-2020-04:50:38 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Cc']
+11-Aug-2020-04:50:39 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxa1@gmail.com
+11-Aug-2020-04:50:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Subject']
+11-Aug-2020-04:50:39 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxsub1
+11-Aug-2020-04:50:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Send']
+11-Aug-2020-04:50:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-04:50:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-04:50:39 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[text()='Send']
+11-Aug-2020-04:50:44 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button//span[text()=' Merge & Email ']
+11-Aug-2020-04:50:46 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-04:50:46 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-04:50:48 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Ability to Change/Edit the pre-filled information/data.jpeg2020-08-11-50-48
+11-Aug-2020-04:50:48 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

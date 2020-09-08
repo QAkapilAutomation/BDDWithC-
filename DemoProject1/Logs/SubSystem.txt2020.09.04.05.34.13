@@ -1,0 +1,11 @@
+04-Sep-2020-05:34:16 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+04-Sep-2020-05:34:18 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+04-Sep-2020-05:34:19 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+04-Sep-2020-05:34:25 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_test
+04-Sep-2020-05:34:27 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: (//span[@class='mat-button-wrapper']//i)[1]
+04-Sep-2020-05:34:27 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Sep-2020-05:34:27 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+04-Sep-2020-05:34:27 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: (//span[@class='mat-button-wrapper']//i)[1]
+04-Sep-2020-05:34:28 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div/button[3]/text()
+04-Sep-2020-05:34:29 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Create new category.jpeg2020-09-04-34-29
+04-Sep-2020-05:34:29 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

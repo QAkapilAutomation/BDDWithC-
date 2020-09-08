@@ -1,0 +1,18 @@
+04-Sep-2020-07:29:06 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+04-Sep-2020-07:29:08 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+04-Sep-2020-07:29:09 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+04-Sep-2020-07:29:24 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 647e7d49-e784-4ec6-81aa-4fd3d1ac81fb)
+04-Sep-2020-07:29:27 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxQAAutomation0904_0729
+04-Sep-2020-07:29:27 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxtest
+04-Sep-2020-07:29:28 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxabc@gmail.com
+04-Sep-2020-07:29:28 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+04-Sep-2020-07:29:28 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+04-Sep-2020-07:29:28 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxLeave Request
+04-Sep-2020-07:29:28 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = cf75af61-6d2b-4466-8efd-ca5163b266a0)
+04-Sep-2020-07:29:31 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = f4d2dfad-9a22-4650-a617-69caf9611852)
+04-Sep-2020-07:29:37 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 26174396-a773-4e68-ba5f-6d7ff5f59e38)
+04-Sep-2020-07:29:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Sep-2020-07:29:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+04-Sep-2020-07:29:37 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = b66d6450-4ce2-4a39-899a-75d25f2e0a09)
+04-Sep-2020-07:29:50 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Email Template Properties with Attachment.jpeg2020-09-04-29-50
+04-Sep-2020-07:29:51 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

@@ -1,0 +1,11 @@
+29-Jul-2020-07:10:40 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Email Template Properties with Attachment.jpeg2020-07-29-10-40
+29-Jul-2020-07:10:40 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://disability-dts-sandbox.primussoft.com/?_token=2
+29-Jul-2020-07:10:47 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[contains(text(),'Email Template')]
+29-Jul-2020-07:10:47 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[contains(text(),'Email Template')]
+29-Jul-2020-07:10:49 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@id='mat-input-0']
+29-Jul-2020-07:10:49 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRandy
+29-Jul-2020-07:10:50 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@id='mat-input-2']
+29-Jul-2020-07:10:50 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxPrimustest
+29-Jul-2020-07:10:51 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //textarea[@id='mat-input-4']
+29-Jul-2020-07:10:52 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxtest
+29-Jul-2020-07:10:53 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //textarea[@id='mat-input-3']

@@ -1,0 +1,5 @@
+28-Apr-2020-05:51:09 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+28-Apr-2020-05:51:13 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+28-Apr-2020-05:51:14 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page file:///C:/Users/KAPIL/Documents/Application/parent.html
+28-Apr-2020-05:51:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+28-Apr-2020-05:51:58 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 

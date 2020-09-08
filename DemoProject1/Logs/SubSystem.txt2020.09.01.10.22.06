@@ -1,0 +1,3 @@
+01-Sep-2020-10:22:06 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxNewAutomation2
+01-Sep-2020-10:22:47 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Create new category.jpeg2020-09-01-22-47
+01-Sep-2020-10:22:48 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

@@ -1,0 +1,18 @@
+11-Aug-2020-06:18:00 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:02 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:03 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:05 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:07 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:08 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:10 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:11 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:13 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:14 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:16 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:17 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:19 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:20 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:22 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:23 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-06:18:24 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : List of template searched by Name.jpeg2020-08-11-18-24
+11-Aug-2020-06:18:24 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

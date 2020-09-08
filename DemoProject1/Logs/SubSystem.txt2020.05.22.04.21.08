@@ -1,0 +1,4 @@
+22-May-2020-04:21:08 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,130)
+22-May-2020-04:21:08 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Email Template']
+22-May-2020-04:21:09 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Template Listing with Sorting and Filtering.jpeg2020-05-22-21-09
+22-May-2020-04:21:10 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

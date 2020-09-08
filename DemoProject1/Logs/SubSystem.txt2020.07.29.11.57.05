@@ -1,0 +1,11 @@
+29-Jul-2020-11:57:08 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+29-Jul-2020-11:57:10 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+29-Jul-2020-11:57:11 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://disability-dts-sandbox.primussoft.com/?_token=2
+29-Jul-2020-11:57:11 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://sandbox-doc-temp-frontend.s3-website-us-east-1.amazonaws.com/
+29-Jul-2020-11:57:11 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+29-Jul-2020-11:57:12 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+29-Jul-2020-11:57:13 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+29-Jul-2020-11:57:15 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+29-Jul-2020-11:57:16 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+29-Jul-2020-11:57:18 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']
+29-Jul-2020-11:57:19 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //button[text()=' Name ']

@@ -1,0 +1,7 @@
+29-Jul-2020-09:26:04 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxPriyanka
+29-Jul-2020-09:26:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //mat-select[@id='mat-select-1']
+29-Jul-2020-09:26:07 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //mat-select[@id='mat-select-1']
+29-Jul-2020-09:26:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[@class='mat-option-text'][contains(text(),'Name')]
+29-Jul-2020-09:26:09 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[@class='mat-option-text'][contains(text(),'Name')]
+29-Jul-2020-09:26:50 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : List of template searched by Name.jpeg2020-07-29-26-50
+29-Jul-2020-09:26:50 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

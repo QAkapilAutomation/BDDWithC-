@@ -1,0 +1,6 @@
+04-Sep-2020-07:23:27 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 18d26e4a-a9bb-45c3-a8b0-dc464e25ec61)
+04-Sep-2020-07:23:29 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [ThenIShouldBeOnCategoryPopup] - Category page is open
+04-Sep-2020-07:23:29 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_test
+04-Sep-2020-07:23:29 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [WhenIEnterTheCategoryNameInTheCategoryTextBox] - Entering data in the category text box
+04-Sep-2020-07:23:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Category added successfully!']
+04-Sep-2020-07:23:34 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

@@ -1,0 +1,6 @@
+01-Sep-2020-11:17:04 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+01-Sep-2020-11:17:06 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+01-Sep-2020-11:17:07 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://disability-dts-sandbox.primussoft.com/?_token=2
+01-Sep-2020-11:17:21 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxNewautomation2
+01-Sep-2020-11:17:22 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxNewAutomation2
+01-Sep-2020-11:17:26 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

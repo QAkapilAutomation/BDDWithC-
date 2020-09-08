@@ -1,0 +1,10 @@
+04-Sep-2020-06:58:20 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+04-Sep-2020-06:58:22 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+04-Sep-2020-06:58:23 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+04-Sep-2020-06:58:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Sep-2020-06:58:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Sep-2020-06:58:38 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 38469b4a-262a-4a99-ba81-2e4bf34ddac3)
+04-Sep-2020-06:58:40 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [ThenIShouldBeOnCategoryPopup] - Category page is open
+04-Sep-2020-06:58:40 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_test
+04-Sep-2020-06:58:40 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [WhenIEnterTheCategoryNameInTheCategoryTextBox] - Entering data in the category text box
+04-Sep-2020-06:58:45 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Category added successfully!']

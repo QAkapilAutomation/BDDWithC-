@@ -1,0 +1,3 @@
+26-May-2020-10:17:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button//span[text()=' Merge & Email ']
+26-May-2020-10:17:02 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //button//span[text()=' Merge & Email ']
+26-May-2020-10:17:04 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

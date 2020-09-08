@@ -1,0 +1,3 @@
+07-Aug-2020-07:06:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@formcontrolname='employeePreviousEmployerName']
+07-Aug-2020-07:06:01 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxhgdsajas
+07-Aug-2020-07:06:01 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

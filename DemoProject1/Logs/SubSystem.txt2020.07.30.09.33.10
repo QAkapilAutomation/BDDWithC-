@@ -1,0 +1,13 @@
+30-Jul-2020-09:33:10 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[contains(text(),'Word Template')]
+30-Jul-2020-09:33:10 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[contains(text(),'Word Template')]
+30-Jul-2020-09:33:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='templateName']
+30-Jul-2020-09:33:12 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxDevtest
+30-Jul-2020-09:33:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='GroupName']
+30-Jul-2020-09:33:13 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxPrimus Test
+30-Jul-2020-09:33:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='secondaryCat']
+30-Jul-2020-09:33:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxBA
+30-Jul-2020-09:33:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //textarea[@name='description']
+30-Jul-2020-09:33:16 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxDocument
+30-Jul-2020-09:33:17 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //label[contains(text(),'Attach file')]
+30-Jul-2020-09:33:19 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : 2  Ability to delete a word template.jpeg2020-07-30-33-19
+30-Jul-2020-09:33:19 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

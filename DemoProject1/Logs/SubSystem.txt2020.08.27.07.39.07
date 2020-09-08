@@ -1,0 +1,12 @@
+27-Aug-2020-07:39:10 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+27-Aug-2020-07:39:12 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+27-Aug-2020-07:39:13 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://disability-dts-sandbox.primussoft.com/?_token=2
+27-Aug-2020-07:39:24 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='templateName']
+27-Aug-2020-07:39:25 [DemoProject1.DTS_StepDefination.CreateNewScriptTemplate] [INFO] [ThenIShouldBeOnScriptTemplatePage] - I am on the script templete page
+27-Aug-2020-07:39:27 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript0827_0739
+27-Aug-2020-07:39:27 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimusTest
+27-Aug-2020-07:39:27 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxThis is test template 
+27-Aug-2020-07:39:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Save']
+27-Aug-2020-07:39:38 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.XPath: //span[text()='Save']
+27-Aug-2020-07:39:42 [DemoProject1.ComponentHelper.AssertHelper] [INFO] [AreEqual] - Actaual result is equal to expected result
+27-Aug-2020-07:39:42 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

@@ -1,0 +1,6 @@
+11-Aug-2020-04:49:00 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:49:01 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:49:03 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:49:04 [DemoProject1.ComponentHelper.GenericHelper+<>c__DisplayClass1_0] [INFO] [<WaitForWebElementFunc>b__0] -  Waiting for Element : By.XPath: //tbody/tr[1]/td[1]
+11-Aug-2020-04:49:05 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Ability to Change/Edit the pre-filled information/data.jpeg2020-08-11-49-05
+11-Aug-2020-04:49:05 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

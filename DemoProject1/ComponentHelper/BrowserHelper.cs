@@ -13,7 +13,7 @@ namespace DemoProject1.ComponentHelper
 {
     public class BrowserHelper
     {
-        private static readonly ILog Logger = Log4NetHelper.GetXmlLogger(typeof(BrowserHelper));
+        private static readonly ILog Logger = Log4NetHelper.GetLogger(typeof(BrowserHelper));
         public static void BrowserMaximize()
         {
             ObjectRepository.Driver.Manage().Window.Maximize();

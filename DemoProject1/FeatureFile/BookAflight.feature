@@ -2,7 +2,7 @@
 Background: Pre-Condition
 Given User Is at Homepage 
 
-@mytag
+@ignore 
 Scenario: BookAFlight Scenario for the DemoWebPage
 	When User Click On the flight link
 	Then User Should be at Book a flight page

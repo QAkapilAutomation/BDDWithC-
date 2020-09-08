@@ -1,0 +1,7 @@
+07-Aug-2020-11:28:50 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+07-Aug-2020-11:28:52 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+07-Aug-2020-11:28:52 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://adminfronendsandbox.s3-website-us-east-1.amazonaws.com/
+07-Aug-2020-11:28:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[@class='route-title animate__animated animate__slideInDown ng-tns-c155-1'][contains(text(),'Eligibility')]
+07-Aug-2020-11:28:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Aug-2020-11:28:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+07-Aug-2020-11:28:57 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[@class='route-title animate__animated animate__slideInDown ng-tns-c155-1'][contains(text(),'Eligibility')]

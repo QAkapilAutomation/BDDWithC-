@@ -1,0 +1,4 @@
+02-Sep-2020-06:45:22 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+02-Sep-2020-06:45:24 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+02-Sep-2020-06:45:26 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Create new category.jpeg2020-09-02-45-26
+02-Sep-2020-06:45:26 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

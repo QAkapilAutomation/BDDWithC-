@@ -1,0 +1,3 @@
+27-Aug-2020-09:56:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxThis is test template 
+27-Aug-2020-09:56:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Save']
+27-Aug-2020-09:56:05 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.XPath: //span[text()='Save']

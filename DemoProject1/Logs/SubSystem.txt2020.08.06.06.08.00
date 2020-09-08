@@ -1,0 +1,9 @@
+06-Aug-2020-06:08:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h5[contains(text(),'Employment Details')]
+06-Aug-2020-06:08:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Aug-2020-06:08:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+06-Aug-2020-06:08:00 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //h5[contains(text(),'Employment Details')]
+06-Aug-2020-06:08:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //mat-select[@formcontrolname='clientCode']
+06-Aug-2020-06:08:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Aug-2020-06:08:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+06-Aug-2020-06:08:07 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Create eligibility data.jpeg2020-08-06-08-07
+06-Aug-2020-06:08:07 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

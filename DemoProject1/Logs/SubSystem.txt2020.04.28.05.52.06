@@ -1,0 +1,22 @@
+28-Apr-2020-05:52:06 [DemoProject1.StepDefination.Fill_cliams_recevied_form_and_verify_data_in_Schedule_List_table] [INFO] [WhenUserEnterTitleRecipient] - Title text enter in the title text box
+28-Apr-2020-05:52:07 [DemoProject1.StepDefination.Fill_cliams_recevied_form_and_verify_data_in_Schedule_List_table] [INFO] [WhenUserEnterTitleRecipient] - Recipient text enter in the Recipient text box
+28-Apr-2020-05:52:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Id: mat-input-3
+28-Apr-2020-05:52:07 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.Id: mat-input-3
+28-Apr-2020-05:52:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Id: mat-input-3
+28-Apr-2020-05:52:07 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox4/13/2020
+28-Apr-2020-05:52:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Id: mat-input-4
+28-Apr-2020-05:52:07 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.Id: mat-input-4
+28-Apr-2020-05:52:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Id: mat-input-4
+28-Apr-2020-05:52:07 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox4/14/2020
+28-Apr-2020-05:52:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //mat-select[contains(@id,'mat-select-2') or class='mat-select ng-tns-c14-51 ng-pristine ng-valid mat-select-empty ng-star-inserted ng-touched']
+28-Apr-2020-05:52:07 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //mat-select[contains(@id,'mat-select-2') or class='mat-select ng-tns-c14-51 ng-pristine ng-valid mat-select-empty ng-star-inserted ng-touched']
+28-Apr-2020-05:52:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='OP4315']
+28-Apr-2020-05:52:48 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Fill cliams recevied form and verify data in Schedule List table for claims received form.jpeg2020-04-28-52-48
+28-Apr-2020-05:52:48 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page file:///C:/Users/KAPIL/Documents/Application/parent.html
+28-Apr-2020-05:52:48 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+28-Apr-2020-05:52:50 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+28-Apr-2020-05:52:56 [DemoProject1.StepDefination.Fill_cliams_recevied_form_and_verify_data_in_Schedule_List_table] [INFO] [WhenUserEnterTitleRecipient] - Title text enter in the title text box
+28-Apr-2020-05:52:56 [DemoProject1.StepDefination.Fill_cliams_recevied_form_and_verify_data_in_Schedule_List_table] [INFO] [WhenUserEnterTitleRecipient] - Recipient text enter in the Recipient text box
+28-Apr-2020-05:52:56 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //mat-label[@id='subtitle' and text()=' Make Recurring  ']
+28-Apr-2020-05:52:56 [DemoProject1.ComponentHelper.CheckBoxHelper] [INFO] [CheckedCheckBox] -  Click on Check box : By.XPath: //mat-label[@id='subtitle' and text()=' Make Recurring  ']
+28-Apr-2020-05:52:56 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[contains(@id,'mat-input-82')]

@@ -203,11 +203,56 @@
     <Compile Include="Configuration\BrowserType.cs" />
     <Compile Include="Configuration\XmlReader.cs" />
     <Compile Include="CustomException\NoSutiableDriverFound.cs" />
+    <Compile Include="DTS_FeatureFile\CreateNewCategory.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CreateNewCategory.feature</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_FeatureFile\CreateNewEmailTemplate.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CreateNewEmailTemplate.feature</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_FeatureFile\CreateNewScriptTemplate.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CreateNewScriptTemplate.feature</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_FeatureFile\CreateNewWordTemplate.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CreateNewWordTemplate.feature</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_FeatureFile\DeleteWordAndEmail.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DeleteWordAndEmail.feature</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_FeatureFile\MergeAndCompose.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MergeAndCompose.feature</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_FeatureFile\Template Listing With Filters and Pagination.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Template Listing With Filters and Pagination.feature</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_StepDefination\CreateNewCategory.cs" />
+    <Compile Include="DTS_StepDefination\CreateNewEmailTemplate.cs" />
+    <Compile Include="DTS_StepDefination\CreateNewScriptTemplate.cs" />
+    <Compile Include="DTS_StepDefination\CreateNewWordTemplate.cs" />
+    <Compile Include="DTS_StepDefination\filter and pagination.cs" />
     <Compile Include="ExcelReader\ExcelReader.cs" />
     <Compile Include="FeatureFile\BookAflight.feature.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>BookAflight.feature</DependentUpon>
+    </Compile>
+    <Compile Include="FeatureFile\dropdown.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dropdown.feature</DependentUpon>
     </Compile>
     <Compile Include="FeatureFile\Fill cliams recevied form and verify data in Schedule List table.feature.cs">
       <AutoGen>True</AutoGen>
@@ -223,6 +268,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>LogInPage.feature</DependentUpon>
+    </Compile>
+    <Compile Include="FeatureFile\Merge Email And Template.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Merge Email And Template.feature</DependentUpon>
     </Compile>
     <Compile Include="FeatureFile\Registration.feature.cs">
       <AutoGen>True</AutoGen>
@@ -243,37 +293,66 @@
     <Compile Include="Interfaces\Iconfig.cs" />
     <Compile Include="PageLibrary\BookAFlight.cs" />
     <Compile Include="PageLibrary\ClaimsReceived.cs" />
+    <Compile Include="PageLibrary\CreateCategory.cs" />
+    <Compile Include="PageLibrary\EmailTemplate.cs" />
+    <Compile Include="PageLibrary\Script.cs" />
+    <Compile Include="PageLibrary\WordTemplate.cs" />
     <Compile Include="PageLibrary\HomePage.cs" />
-    <Compile Include="PageLibrary\LogIn.cs" />
-    <Compile Include="PageLibrary\Registration.cs" />
     <Compile Include="Setting\AppConfigKeys.cs" />
     <Compile Include="Setting\ObjectRepository.cs" />
-    <Compile Include="StepDefination\DemoTest.cs" />
+    <Compile Include="StepDefination\Dropdown.cs" />
     <Compile Include="StepDefination\Fill cliams recevied form and verify data in Schedule List table.cs" />
     <Compile Include="StepDefination\Fill cliams recevied with Make Recurring option.cs" />
-    <Compile Include="StepDefination\FindAflight.cs" />
-    <Compile Include="StepDefination\LogInPage.cs" />
+    <Compile Include="StepDefination\Merge Email And Templete.cs" />
     <Compile Include="StepDefination\Verify title and Recipientid validation message on the claims received page .cs" />
     <Compile Include="StepDefination\VerifyUserOnTheScheduleListPage.cs" />
-    <Compile Include="TestScripts\ExcelTest.cs" />
-    <Compile Include="TestScripts\extentReport.cs" />
-    <Compile Include="TestScripts\MouseEvent.cs" />
-    <Compile Include="TestScripts\TC01.cs" />
-    <Compile Include="TestScripts\UnitTest1.cs" />
-    <Compile Include="TestScripts\TextBoxTest.cs" />
-    <Compile Include="TestScripts\RadioandButtontest.cs" />
-    <Compile Include="TestScripts\DropDown.cs" />
-    <Compile Include="TestScripts\UnitTest3.cs" />
-    <Compile Include="TestScripts\WaitTimeout.cs" />
-    <Compile Include="TestScripts\WebElement.cs" />
+    <Compile Include="Test\Test1.cs" />
+    <Compile Include="Test\Test1.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Test1.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Test_Genric\GenericHelper.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="DTS_FeatureFile\CreateNewCategory.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CreateNewCategory.feature.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_FeatureFile\CreateNewEmailTemplate.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CreateNewEmailTemplate.feature.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_FeatureFile\CreateNewScriptTemplate.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CreateNewScriptTemplate.feature.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_FeatureFile\CreateNewWordTemplate.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CreateNewWordTemplate.feature.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_FeatureFile\DeleteWordAndEmail.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>DeleteWordAndEmail.feature.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_FeatureFile\MergeAndCompose.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>MergeAndCompose.feature.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_FeatureFile\Template Listing With Filters and Pagination.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Template Listing With Filters and Pagination.feature.cs</LastGenOutput>
+    </None>
     <None Include="FeatureFile\BookAflight.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>BookAflight.feature.cs</LastGenOutput>
+    </None>
+    <None Include="FeatureFile\dropdown.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>dropdown.feature.cs</LastGenOutput>
     </None>
     <None Include="FeatureFile\Fill cliams recevied form and verify data in Schedule List table.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
@@ -286,6 +365,10 @@
     <None Include="FeatureFile\LogInPage.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>LogInPage.feature.cs</LastGenOutput>
+    </None>
+    <None Include="FeatureFile\Merge Email And Template.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Merge Email And Template.feature.cs</LastGenOutput>
     </None>
     <None Include="FeatureFile\Registration.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
@@ -300,11 +383,15 @@
       <LastGenOutput>VerifyUserOnSchedularOnListPade.feature.cs</LastGenOutput>
     </None>
     <None Include="packages.config" />
+    <None Include="Test\Test1.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Test1.feature.cs</LastGenOutput>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Image\" />
-    <Folder Include="Logs\" />
+    <Folder Include="Logs\FileLogger\" />
     <Folder Include="Reports\" />
+    <Folder Include="ScreenShots\" />
     <Folder Include="TestData\" />
   </ItemGroup>
   <ItemGroup>
@@ -324,7 +411,6 @@
     </PropertyGroup>
     <Error Condition="!Exists('..\packages\MSTest.TestAdapter.2.1.0\build\net45\MSTest.TestAdapter.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MSTest.TestAdapter.2.1.0\build\net45\MSTest.TestAdapter.props'))" />
     <Error Condition="!Exists('..\packages\MSTest.TestAdapter.2.1.0\build\net45\MSTest.TestAdapter.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MSTest.TestAdapter.2.1.0\build\net45\MSTest.TestAdapter.targets'))" />
-    <Error Condition="!Exists('..\packages\Selenium.WebDriver.ChromeDriver.80.0.3987.10600\build\Selenium.WebDriver.ChromeDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.WebDriver.ChromeDriver.80.0.3987.10600\build\Selenium.WebDriver.ChromeDriver.targets'))" />
     <Error Condition="!Exists('..\packages\Selenium.Firefox.WebDriver.0.26.0\build\Selenium.Firefox.WebDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.Firefox.WebDriver.0.26.0\build\Selenium.Firefox.WebDriver.targets'))" />
     <Error Condition="!Exists('..\packages\Selenium.PhantomJS.WebDriver.2.1.1\build\Selenium.PhantomJS.WebDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.PhantomJS.WebDriver.2.1.1\build\Selenium.PhantomJS.WebDriver.targets'))" />
     <Error Condition="!Exists('..\packages\Selenium.WebDriver.PhantomJS.1.0.0.0\build\Selenium.WebDriver.PhantomJS.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.WebDriver.PhantomJS.1.0.0.0\build\Selenium.WebDriver.PhantomJS.targets'))" />
@@ -335,9 +421,9 @@
     <Error Condition="!Exists('..\packages\SpecFlow.2.4.0\build\SpecFlow.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\SpecFlow.2.4.0\build\SpecFlow.targets'))" />
     <Error Condition="!Exists('..\packages\SpecFlow.Tools.MsBuild.Generation.2.4.0\build\SpecFlow.Tools.MsBuild.Generation.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\SpecFlow.Tools.MsBuild.Generation.2.4.0\build\SpecFlow.Tools.MsBuild.Generation.props'))" />
     <Error Condition="!Exists('..\packages\SpecFlow.Tools.MsBuild.Generation.2.4.0\build\SpecFlow.Tools.MsBuild.Generation.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\SpecFlow.Tools.MsBuild.Generation.2.4.0\build\SpecFlow.Tools.MsBuild.Generation.targets'))" />
+    <Error Condition="!Exists('..\packages\Selenium.WebDriver.ChromeDriver.85.0.4183.8700\build\Selenium.WebDriver.ChromeDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.WebDriver.ChromeDriver.85.0.4183.8700\build\Selenium.WebDriver.ChromeDriver.targets'))" />
   </Target>
   <Import Project="..\packages\MSTest.TestAdapter.2.1.0\build\net45\MSTest.TestAdapter.targets" Condition="Exists('..\packages\MSTest.TestAdapter.2.1.0\build\net45\MSTest.TestAdapter.targets')" />
-  <Import Project="..\packages\Selenium.WebDriver.ChromeDriver.80.0.3987.10600\build\Selenium.WebDriver.ChromeDriver.targets" Condition="Exists('..\packages\Selenium.WebDriver.ChromeDriver.80.0.3987.10600\build\Selenium.WebDriver.ChromeDriver.targets')" />
   <Import Project="..\packages\Selenium.Firefox.WebDriver.0.26.0\build\Selenium.Firefox.WebDriver.targets" Condition="Exists('..\packages\Selenium.Firefox.WebDriver.0.26.0\build\Selenium.Firefox.WebDriver.targets')" />
   <Import Project="..\packages\Selenium.PhantomJS.WebDriver.2.1.1\build\Selenium.PhantomJS.WebDriver.targets" Condition="Exists('..\packages\Selenium.PhantomJS.WebDriver.2.1.1\build\Selenium.PhantomJS.WebDriver.targets')" />
   <Import Project="..\packages\Selenium.WebDriver.PhantomJS.1.0.0.0\build\Selenium.WebDriver.PhantomJS.targets" Condition="Exists('..\packages\Selenium.WebDriver.PhantomJS.1.0.0.0\build\Selenium.WebDriver.PhantomJS.targets')" />
@@ -345,4 +431,5 @@
   <Import Project="..\packages\Microsoft.NET.Test.Sdk.16.5.0\build\net40\Microsoft.NET.Test.Sdk.targets" Condition="Exists('..\packages\Microsoft.NET.Test.Sdk.16.5.0\build\net40\Microsoft.NET.Test.Sdk.targets')" />
   <Import Project="..\packages\SpecFlow.2.4.0\build\SpecFlow.targets" Condition="Exists('..\packages\SpecFlow.2.4.0\build\SpecFlow.targets')" />
   <Import Project="..\packages\SpecFlow.Tools.MsBuild.Generation.2.4.0\build\SpecFlow.Tools.MsBuild.Generation.targets" Condition="Exists('..\packages\SpecFlow.Tools.MsBuild.Generation.2.4.0\build\SpecFlow.Tools.MsBuild.Generation.targets')" />
+  <Import Project="..\packages\Selenium.WebDriver.ChromeDriver.85.0.4183.8700\build\Selenium.WebDriver.ChromeDriver.targets" Condition="Exists('..\packages\Selenium.WebDriver.ChromeDriver.85.0.4183.8700\build\Selenium.WebDriver.ChromeDriver.targets')" />
 </Project>

@@ -1,0 +1,4 @@
+31-Jul-2020-04:43:08 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Save']
+31-Jul-2020-04:43:09 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.XPath: //span[text()='Save']
+31-Jul-2020-04:43:53 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : 2  Ability to delete a word template.jpeg2020-07-31-43-53
+31-Jul-2020-04:43:54 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

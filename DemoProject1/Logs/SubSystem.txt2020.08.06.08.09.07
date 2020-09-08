@@ -1,0 +1,4 @@
+06-Aug-2020-08:09:07 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Test2020-08-06-09-07
+06-Aug-2020-08:09:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()=' 101 - T-Mobile ']
+06-Aug-2020-08:09:48 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Create eligibility data.jpeg2020-08-06-09-48
+06-Aug-2020-08:09:48 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

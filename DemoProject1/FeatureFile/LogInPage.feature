@@ -1,7 +1,7 @@
 ﻿Feature: login feature for Demo Website
 Background: Pre-Condition
 Given User Is at Homepage 
-
+@ignore 
 Scenario: Login Scenario of Demo Webpage
 	When User click on the signon link
 	Then User should be at login page

@@ -1,0 +1,14 @@
+04-Sep-2020-07:19:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[@class='mat-button-wrapper']//i
+04-Sep-2020-07:19:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Sep-2020-07:19:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+04-Sep-2020-07:19:00 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[@class='mat-button-wrapper']//i
+04-Sep-2020-07:19:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[contains(text(),'Remove')]
+04-Sep-2020-07:19:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Sep-2020-07:19:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+04-Sep-2020-07:19:02 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //button[contains(text(),'Remove')]
+04-Sep-2020-07:19:43 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = e0293e4a-55bd-4112-905b-32cc5d605f0e)
+04-Sep-2020-07:19:45 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [ThenIShouldBeOnCategoryPopup] - Category page is open
+04-Sep-2020-07:19:45 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_test
+04-Sep-2020-07:19:45 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [WhenIEnterTheCategoryNameInTheCategoryTextBox] - Entering data in the category text box
+04-Sep-2020-07:19:50 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Category added successfully!']
+04-Sep-2020-07:19:51 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

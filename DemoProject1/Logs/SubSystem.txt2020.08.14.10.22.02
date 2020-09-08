@@ -1,0 +1,5 @@
+14-Aug-2020-10:22:02 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+14-Aug-2020-10:22:04 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+14-Aug-2020-10:22:04 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://disability-dts-sandbox.primussoft.com/?_token=2
+14-Aug-2020-10:22:44 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : drop testing.jpeg2020-08-14-22-44
+14-Aug-2020-10:22:45 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

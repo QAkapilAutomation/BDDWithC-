@@ -1,0 +1,10 @@
+04-Sep-2020-05:11:19 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+04-Sep-2020-05:11:21 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+04-Sep-2020-05:11:21 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+04-Sep-2020-05:11:30 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = f2606f2e-1ed1-4b33-b31f-dd15ce931c66)
+04-Sep-2020-05:11:32 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [ThenIShouldBeOnCategoryPopup] - Category page is open
+04-Sep-2020-05:11:33 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_test
+04-Sep-2020-05:11:33 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [WhenIEnterTheCategoryNameInTheCategoryTextBox] - Entering data in the category text box
+04-Sep-2020-05:11:38 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_test
+04-Sep-2020-05:11:38 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [ThenCategoryShouldBeAddedInListingPage] - Searching for the category in the listing
+04-Sep-2020-05:11:42 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

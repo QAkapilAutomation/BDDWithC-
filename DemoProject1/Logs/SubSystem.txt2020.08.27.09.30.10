@@ -1,0 +1,9 @@
+27-Aug-2020-09:30:10 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='templateName']
+27-Aug-2020-09:30:10 [DemoProject1.DTS_StepDefination.CreateNewScriptTemplate] [INFO] [ThenIShouldBeOnScriptTemplatePage] - I am on the script templete page
+27-Aug-2020-09:30:13 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript0827_0929
+27-Aug-2020-09:30:13 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimusTest
+27-Aug-2020-09:30:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxThis is test template 
+27-Aug-2020-09:30:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Save']
+27-Aug-2020-09:30:19 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.XPath: //span[text()='Save']
+27-Aug-2020-09:30:23 [DemoProject1.ComponentHelper.AssertHelper] [INFO] [AreEqual] - Actaual result is not equal to expected result
+27-Aug-2020-09:30:24 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

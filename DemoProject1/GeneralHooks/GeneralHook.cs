@@ -20,23 +20,31 @@ namespace DemoProject1.GeneralHooks
         private static ExtentHtmlReporter extentHtmlReporter;
         private static ExtentTest feature;
         private static ExtentTest scenario;
+        public static ExtentTest test;
         private static string ApplicationDebuggingFolder => @"C:\Users\KAPIL\source\repos\DemoProject1\DemoProject1\Reports\reports";
         public static string LatestResultsReportFolder { get; set; }
         private static ExtentReports ReportManager { get; set; }
         private static string HtmlReportFullPath { get; set; }
+        
 
 
         [BeforeTestRun]
        public static void BeforeTestRun()
         {
-            
             var filePath = Path.GetFullPath(ApplicationDebuggingFolder);
             LatestResultsReportFolder = Path.Combine(filePath, DateTime.Now.ToString("MMdd_HHmm"));
             Directory.CreateDirectory(LatestResultsReportFolder);
             HtmlReportFullPath = $"{LatestResultsReportFolder}\\TestResults.html";
             extentHtmlReporter = new ExtentHtmlReporter(HtmlReportFullPath);
             extentReports = new ExtentReports();
+            extentReports.AddSystemInfo("HostName", "Kapil Window");
+            extentReports.AddSystemInfo("UserName", "Kapil");
+            extentReports.AddSystemInfo("Environment", "QA");
+            extentReports.AddSystemInfo("OS", "Window10");
             extentReports.AttachReporter(extentHtmlReporter);
+           test = extentReports.CreateTest("logs" +
+               "");
+
 
         }
 
@@ -45,6 +53,7 @@ namespace DemoProject1.GeneralHooks
         {
             if(null != featureContext)
             {
+               
                 feature = extentReports.CreateTest<Feature>(featureContext.FeatureInfo.Title, featureContext.FeatureInfo.Description);
             }
         }
@@ -56,6 +65,7 @@ namespace DemoProject1.GeneralHooks
             if (null != scenarioContext)
             
             {
+                
                 _scenarioContext = scenarioContext;
                 scenario = feature.CreateNode<Scenario>(scenarioContext.ScenarioInfo.Title, scenarioContext.ScenarioInfo.Description);
             }
@@ -71,6 +81,7 @@ namespace DemoProject1.GeneralHooks
                 case ScenarioBlock.Given:
                     if (_scenarioContext.TestError != null)
                     {
+                        
                         var mediaEntity = ts.CaptureScreenshotsAndReturnModel(_scenarioContext.ScenarioInfo.Title.Trim());
                         scenario.CreateNode<Given>(_scenarioContext.StepContext.StepInfo.Text).Fail(_scenarioContext.TestError.Message + "\n" + _scenarioContext.TestError.StackTrace,mediaEntity);
                     }
@@ -86,6 +97,7 @@ namespace DemoProject1.GeneralHooks
                        
                         var mediaEntity = ts.CaptureScreenshotsAndReturnModel(_scenarioContext.ScenarioInfo.Title.Trim());
                         scenario.CreateNode<When>(_scenarioContext.StepContext.StepInfo.Text).Fail(_scenarioContext.TestError.Message + "\n" + _scenarioContext.TestError.StackTrace,mediaEntity);
+                        
                     }
                     else
                     {
@@ -126,20 +138,7 @@ namespace DemoProject1.GeneralHooks
 
         }
 
-        //public void CreateNode<T>() where T : IGherkinFormatterModel
-        //{
-        //    if (_scenarioContext.TestError != null)
-        //    {
-        //        string name = @"C:\Users\KAPIL\source\repos\DemoProject1\DemoProject1\Reports" + _scenarioContext.ScenarioInfo.Title.Replace(" ", "") + ".jpeg";
-        //        TakeScreenShots.TakeScreenShot1(name);
-        //        scenario.CreateNode<T>(_scenarioContext.StepContext.StepInfo.Text).Fail(_scenarioContext.TestError.Message + "\n" + _scenarioContext.TestError.StackTrace)
-        //            .AddScreenCaptureFromPath(name);
-        //    }
-        //    else
-        //    {
-        //        scenario.CreateNode<T>(_scenarioContext.StepContext.StepInfo.Text).Pass("");
-        //    }
-        //}
+       
         [AfterTestRun]
         public static void AfterTestRun()
         {
@@ -167,8 +166,8 @@ namespace DemoProject1.GeneralHooks
         [BeforeScenario("Tag2")]
         public static void BeforeScenarioContextInjection(FeatureContext featureContext, ScenarioContext scenarioContext)
         {
-            featureContext = featureContext;
-            scenarioContext = scenarioContext;
+           //featureContext = featureContext;
+           // scenarioContext = scenarioContext;
         }
 
 
@@ -179,7 +178,7 @@ namespace DemoProject1.GeneralHooks
             if (ScenarioContext.Current.TestError != null)
             {
                 string name = ScenarioContext.Current.ScenarioInfo.Title + ".jpeg";
-                TakeScreenShots.TakeScreenShot1(name);
+                TakeScreenShots.CaptureScreenshoots(name);
                 Console.WriteLine(ScenarioContext.Current.TestError.Message);
                 Console.WriteLine(ScenarioContext.Current.TestError.StackTrace);
             }

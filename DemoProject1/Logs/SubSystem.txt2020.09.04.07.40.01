@@ -1,0 +1,11 @@
+04-Sep-2020-07:40:01 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxabc@gmail.com
+04-Sep-2020-07:40:01 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+04-Sep-2020-07:40:01 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+04-Sep-2020-07:40:01 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxLeave Request
+04-Sep-2020-07:40:01 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 4ed4e983-5f98-4563-a87a-fa64bb3cf074)
+04-Sep-2020-07:40:03 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 6732856e-0620-40c8-9303-c83a31f024ce)
+04-Sep-2020-07:40:07 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = ee72d198-4b56-42fd-852e-0af3f601ebd8)
+04-Sep-2020-07:40:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Sep-2020-07:40:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+04-Sep-2020-07:40:07 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = b1b80823-6603-4004-9dfa-5dcecaca0435)
+04-Sep-2020-07:40:13 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

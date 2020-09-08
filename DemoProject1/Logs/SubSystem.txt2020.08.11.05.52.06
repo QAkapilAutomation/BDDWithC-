@@ -1,0 +1,23 @@
+11-Aug-2020-05:52:06 [DemoProject1.ComponentHelper.AssertHelper] [INFO] [AreEqual] - Actaual result is not equal to expected result
+11-Aug-2020-05:52:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[contains(text(),'Email Template')]
+11-Aug-2020-05:52:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-05:52:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-05:52:09 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[contains(text(),'Email Template')]
+11-Aug-2020-05:52:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[contains(text(),'Word Template')]
+11-Aug-2020-05:52:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-05:52:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-05:52:13 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[contains(text(),'Word Template')]
+11-Aug-2020-05:52:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: (//mat-select)[2]
+11-Aug-2020-05:52:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-05:52:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-05:52:16 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: (//mat-select)[2]
+11-Aug-2020-05:52:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[@class='mat-option-text'][contains(text(),'Name')]
+11-Aug-2020-05:52:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-05:52:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-05:52:20 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[@class='mat-option-text'][contains(text(),'Name')]
+11-Aug-2020-05:52:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search in Template...']
+11-Aug-2020-05:52:20 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxDevtest0811_0551
+11-Aug-2020-05:52:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-05:52:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+11-Aug-2020-05:52:23 [DemoProject1.DTS_StepDefination.CreateNewWordTemplate] [INFO] [ThenTheWordTemplateShouldBePresent] - Saved Word template is present on searching at home page
+11-Aug-2020-05:52:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tr[1]//td[4]//i[3]

@@ -1,0 +1,14 @@
+01-Sep-2020-06:36:32 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+01-Sep-2020-06:36:35 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+01-Sep-2020-06:36:36 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://disability-dts-sandbox.primussoft.com/?_token=2
+01-Sep-2020-06:36:45 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxQAAutomation0901_0636
+01-Sep-2020-06:36:46 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimustest
+01-Sep-2020-06:36:47 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxtest
+01-Sep-2020-06:36:48 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxabc@gmail.com
+01-Sep-2020-06:36:49 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+01-Sep-2020-06:36:49 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+01-Sep-2020-06:36:49 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxLeave Request
+01-Sep-2020-06:36:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+01-Sep-2020-06:36:52 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+01-Sep-2020-06:36:55 [DemoProject1.ComponentHelper.AssertHelper] [INFO] [AreEqual] - Actaual result is not equal to expected result
+01-Sep-2020-06:36:55 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

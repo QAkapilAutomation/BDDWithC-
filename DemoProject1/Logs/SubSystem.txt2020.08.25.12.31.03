@@ -1,0 +1,4 @@
+25-Aug-2020-12:31:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Save']
+25-Aug-2020-12:31:03 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.XPath: //span[text()='Save']
+25-Aug-2020-12:31:07 [DemoProject1.ComponentHelper.AssertHelper] [INFO] [AreEqual] - Actaual result is equal to expected result
+25-Aug-2020-12:31:07 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

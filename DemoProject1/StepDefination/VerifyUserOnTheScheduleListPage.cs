@@ -23,31 +23,12 @@ namespace DemoProject1.StepDefination
         }
 
         [When(@"User click on the manage Schedules link")]
-        public void WhenUserClickOnTheManageSchedulesLink()
-        {
-            hpage.ClickOnManageSchedulesLink();
-        }
+
 
         [Then(@"user should be at reporter schedule page")]
         public void ThenUserShouldBeAtReporterSchedulePage()
         {
             Assert.IsTrue(GenericHelper.IsElemetPresent(By.XPath("//p[text()='Report Scheduler']")));
         }
-
-        [When(@"user click on the repoerter schedule link")]
-        public void WhenUserClickOnTheRepoerterScheduleLink()
-        {
-            hpage.ClickOnReportSchedulerLink();
-        }
-
-        [Then(@"user should be schedule list page")]
-        public void ThenUserShouldBeScheduleListPage()
-        {
-           // Assert.IsTrue(GenericHelper.IsElemetPresent(By.XPath("//div[@id='title']")));
-            hpage.VerifyScheduleListTitle();
-        }
-
-
-
     }
 }

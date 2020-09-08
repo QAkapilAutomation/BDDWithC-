@@ -41,6 +41,18 @@ namespace DemoProject1.ComponentHelper
             Thread.Sleep(300);
             element.Click();
         }
+        public static void ScrollToAndClickX(By locator)
+        {
+            IWebElement element = GenericHelper.GetElement(locator);
+            ExecuteScript("window.scrollTo(0," + element.Location.X + ")");
+            Thread.Sleep(300);
+            element.Click();
+        }
+        public static void JsClick(By locator)
+        {
+            IJavaScriptExecutor executor = (IJavaScriptExecutor)ObjectRepository.Driver;
+            executor.ExecuteScript("arguments[0].click();", locator);
+        }
 
 
     }

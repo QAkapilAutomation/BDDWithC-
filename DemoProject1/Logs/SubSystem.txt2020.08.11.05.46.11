@@ -1,0 +1,14 @@
+11-Aug-2020-05:46:11 [DemoProject1.ComponentHelper.AssertHelper] [INFO] [AreEqual] - Actaual result is not equal to expected result
+11-Aug-2020-05:46:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[contains(text(),'Email Template')]
+11-Aug-2020-05:46:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-05:46:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-05:46:14 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[contains(text(),'Email Template')]
+11-Aug-2020-05:46:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[contains(text(),'Word Template')]
+11-Aug-2020-05:46:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-05:46:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-05:46:16 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[contains(text(),'Word Template')]
+11-Aug-2020-05:46:18 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: (//mat-select)[2]
+11-Aug-2020-05:46:18 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-05:46:18 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-05:46:20 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : 2  Ability to delete a word template.jpeg2020-08-11-46-20
+11-Aug-2020-05:46:21 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

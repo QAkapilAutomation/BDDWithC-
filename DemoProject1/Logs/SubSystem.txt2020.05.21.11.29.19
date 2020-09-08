@@ -1,0 +1,6 @@
+21-May-2020-11:29:19 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,130)
+21-May-2020-11:29:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Name ']
+21-May-2020-11:29:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Group ']
+21-May-2020-11:29:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Updated On ']
+21-May-2020-11:29:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //th[text()=' Action ']
+21-May-2020-11:29:20 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

@@ -1,0 +1,4 @@
+21-May-2020-08:59:45 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2020-08:59:50 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+21-May-2020-08:59:51 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://sandbox-doc-temp-frontend.s3-website-us-east-1.amazonaws.com/
+21-May-2020-08:59:51 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: (//mat-select)[1]

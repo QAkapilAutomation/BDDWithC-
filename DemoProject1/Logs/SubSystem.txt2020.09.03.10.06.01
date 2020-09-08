@@ -1,0 +1,13 @@
+03-Sep-2020-10:06:00 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+03-Sep-2020-10:06:03 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+03-Sep-2020-10:06:04 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://disability-dts-sandbox.primussoft.com/?_token=2
+03-Sep-2020-10:06:11 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 4e03c6a5-2a05-4c63-b185-32de88029052)
+03-Sep-2020-10:06:11 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='templateName']
+03-Sep-2020-10:06:12 [DemoProject1.DTS_StepDefination.CreateNewScriptTemplate] [INFO] [ThenIShouldBeOnScriptTemplatePage] - I am on the script templete page
+03-Sep-2020-10:06:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript0903_1006
+03-Sep-2020-10:06:15 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxThis is test template 
+03-Sep-2020-10:06:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+03-Sep-2020-10:06:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+03-Sep-2020-10:06:16 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = d82a5957-e251-4342-b01d-b5581f6f87b4)
+03-Sep-2020-10:06:22 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : ScriptTemplate Properties without Attachement.jpeg2020-09-03-06-22
+03-Sep-2020-10:06:23 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

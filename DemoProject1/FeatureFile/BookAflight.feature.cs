@@ -98,11 +98,11 @@ testRunner.Given("User Is at Homepage", ((string)(null)), ((TechTalk.SpecFlow.Ta
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestMethodAttribute()]
         [Microsoft.VisualStudio.TestTools.UnitTesting.DescriptionAttribute("BookAFlight Scenario for the DemoWebPage")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("FeatureTitle", "BookAflight feature for DemoWebsite")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestCategoryAttribute("mytag")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.IgnoreAttribute()]
         public virtual void BookAFlightScenarioForTheDemoWebPage()
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("BookAFlight Scenario for the DemoWebPage", null, new string[] {
-                        "mytag"});
+                        "ignore"});
 #line 6
 this.ScenarioInitialize(scenarioInfo);
             this.ScenarioStart();

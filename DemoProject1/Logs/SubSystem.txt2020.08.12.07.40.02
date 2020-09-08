@@ -1,0 +1,5 @@
+12-Aug-2020-07:40:06 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+12-Aug-2020-07:40:08 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+12-Aug-2020-07:40:08 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://disability-dts-sandbox.primussoft.com/?_token=2
+12-Aug-2020-07:40:53 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Email Template Properties with Attachment.jpeg2020-08-12-40-53
+12-Aug-2020-07:40:54 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

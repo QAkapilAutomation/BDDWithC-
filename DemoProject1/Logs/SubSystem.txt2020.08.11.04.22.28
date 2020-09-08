@@ -1,0 +1,4 @@
+11-Aug-2020-04:22:32 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+11-Aug-2020-04:22:34 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+11-Aug-2020-04:22:35 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Template listing should get displayed.jpeg2020-08-11-22-35
+11-Aug-2020-04:22:35 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

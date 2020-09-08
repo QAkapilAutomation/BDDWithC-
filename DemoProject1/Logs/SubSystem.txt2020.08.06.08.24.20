@@ -1,0 +1,2 @@
+06-Aug-2020-08:24:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //*[@id='mat-select-3']
+06-Aug-2020-08:24:20 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,233)

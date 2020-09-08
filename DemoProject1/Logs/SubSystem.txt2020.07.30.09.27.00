@@ -1,0 +1,8 @@
+30-Jul-2020-09:27:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[contains(text(),'Okay')]
+30-Jul-2020-09:27:00 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[contains(text(),'Okay')]
+30-Jul-2020-09:27:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search in Template...']
+30-Jul-2020-09:27:02 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [ClearText] - Clear in the textbox
+30-Jul-2020-09:27:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search in Template...']
+30-Jul-2020-09:27:02 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxQAAutomation
+30-Jul-2020-09:27:03 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTheEmailTemplateShouldBeDeletedFromTheDatabase] - Verified that the templates has been deleted successfully
+30-Jul-2020-09:27:03 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

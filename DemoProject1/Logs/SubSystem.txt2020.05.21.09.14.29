@@ -1,0 +1,8 @@
+21-May-2020-09:14:34 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2020-09:14:38 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+21-May-2020-09:14:39 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://sandbox-doc-temp-frontend.s3-website-us-east-1.amazonaws.com/
+21-May-2020-09:14:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Name ']
+21-May-2020-09:14:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Group ']
+21-May-2020-09:14:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Updated On ']
+21-May-2020-09:14:57 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //th[text()=' Action ']
+21-May-2020-09:14:57 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

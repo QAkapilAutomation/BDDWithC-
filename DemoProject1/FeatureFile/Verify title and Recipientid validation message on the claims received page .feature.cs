@@ -106,12 +106,10 @@ namespace DemoProject1.FeatureFile
             "ge")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("FeatureTitle", "Verify title and Recipientid textbox validation message on the claims received pa" +
             "ge")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestCategoryAttribute("mytag")]
         public virtual void VerifyTitleAndRecipientidTextboxValidationMessageOnTheClaimsReceivedPage()
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Verify title and Recipientid textbox validation message on the claims received pa" +
-                    "ge", null, new string[] {
-                        "mytag"});
+                    "ge", null, ((string[])(null)));
 #line 9
 this.ScenarioInitialize(scenarioInfo);
             this.ScenarioStart();

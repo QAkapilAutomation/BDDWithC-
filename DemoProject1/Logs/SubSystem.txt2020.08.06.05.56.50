@@ -1,0 +1,4 @@
+06-Aug-2020-05:56:54 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+06-Aug-2020-05:56:57 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+06-Aug-2020-05:56:58 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://adminfronendsandbox.s3-website-us-east-1.amazonaws.com/
+06-Aug-2020-05:56:58 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[@class='route-title animate__animated animate__slideInDown ng-tns-c155-1'][contains(text(),'Eligibility')]

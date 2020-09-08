@@ -1,5 +1,7 @@
 ﻿using DemoProject1.ComponentHelper;
+using DemoProject1.Setting;
 using OpenQA.Selenium;
+using OpenQA.Selenium.Interactions;
 using SeleniumExtras.PageObjects;
 using System;
 using System.Collections.Generic;
@@ -13,17 +15,28 @@ namespace DemoProject1.PageLibrary
     {
         private IWebDriver driver;
 
-        [FindsBy(How = How.XPath, Using = "(//button[text()='Manage Schedules'])[1]")]
-        private readonly IWebElement manageSchedules;
+        [FindsBy(How = How.XPath, Using = "//button[@class='split-btn']")]
+        private readonly IWebElement newButton;
 
-        [FindsBy(How = How.XPath, Using = " //p[text()='Report Scheduler']")]
-        private  readonly IWebElement reportScheduler;
+        [FindsBy(How = How.XPath, Using = " //a[contains(text(),'Word Template')]")]
+        private  readonly IWebElement wordTemplateButton;
+
+        [FindsBy(How = How.XPath, Using = "//a[contains(text(),'Script')]")]
+        private readonly IWebElement scriptButton;
+
+        [FindsBy(How = How.XPath, Using = " //a[contains(text(),'Email Template')]")]
+        private readonly IWebElement emailTemplate;
+
+        [FindsBy(How = How.XPath, Using = "  //a[contains(text(),'Category')]")]
+        private readonly IWebElement Category;
 
 
-        [FindsBy(How = How.XPath, Using = "//div[@id='title']")]
-        private  readonly IWebElement Schedulelist;
-        
+        [FindsBy(How = How.XPath, Using = "//input[@placeholder='Search...']")]
+        private readonly IWebElement searchTextBox;
 
+
+
+        //a[contains(text(),'Category')]
 
 
         public HomePage(IWebDriver _driver)
@@ -33,22 +46,40 @@ namespace DemoProject1.PageLibrary
 
         }
 
-        public void ClickOnManageSchedulesLink()
+        public void hoverToNewButtonAndClickOnWord()
         {
-            manageSchedules.Click();
+            Actions act = new Actions(ObjectRepository.Driver);
+            act.MoveToElement(newButton).Build().Perform();
+            LinkHelper.click(wordTemplateButton);
+
+        }
+        public void hoverToNewButtonAndClickScript()
+        {
+            Actions act = new Actions(ObjectRepository.Driver);
+            act.MoveToElement(newButton).Build().Perform();
+            LinkHelper.click(scriptButton);
 
         }
 
-        public void ClickOnReportSchedulerLink()
+        public void hoverToNewButtonAndClickOnEmailTemplate()
         {
-            GenericHelper.WaitForWebElementInPage(By.XPath("//p[text()='Report Scheduler']"),TimeSpan.FromSeconds(60));
-            reportScheduler.Click();
+            Actions act = new Actions(ObjectRepository.Driver);
+            act.MoveToElement(newButton).Build().Perform();
+            LinkHelper.click(emailTemplate);
+
         }
 
-        public void VerifyScheduleListTitle()
+        public void hoverToNewButtonAndClickOnCategory()
         {
-           String text= Schedulelist.GetAttribute("text");
-            AssertHelper.AreEqual(text,"Schedule List");
+            Actions act = new Actions(ObjectRepository.Driver);
+            act.MoveToElement(newButton).Build().Perform();
+            LinkHelper.click(Category);
         }
+
+        public void searchInSerchBox(string text)
+        {
+            TextBoxHelper.Sendkeys(searchTextBox, text);
+        }
+
     }
 }

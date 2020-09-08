@@ -1,0 +1,12 @@
+22-May-2020-05:58:01 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //tbody/tr[1]/td[1]
+22-May-2020-05:58:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button//span[text()=' Merge & Email ']
+22-May-2020-05:58:03 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //button//span[text()=' Merge & Email ']
+22-May-2020-05:58:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='from']
+22-May-2020-05:58:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='toEmail']
+22-May-2020-05:58:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Cc']
+22-May-2020-05:58:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Subject']
+22-May-2020-05:58:06 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTheEmailComposerPageAppearsWithMergedDataAndFilledProperties] - Form textfiled is present on the page
+22-May-2020-05:58:06 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTheEmailComposerPageAppearsWithMergedDataAndFilledProperties] - To textfiled is present on the page
+22-May-2020-05:58:06 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTheEmailComposerPageAppearsWithMergedDataAndFilledProperties] - CC textfiled is present on the page
+22-May-2020-05:58:06 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTheEmailComposerPageAppearsWithMergedDataAndFilledProperties] - Subject textfiled is present on the page
+22-May-2020-05:58:06 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

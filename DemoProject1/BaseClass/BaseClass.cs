@@ -16,6 +16,7 @@ using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TechTalk.SpecFlow;
 
 namespace DemoProject1.BaseClass
 {
@@ -23,6 +24,7 @@ namespace DemoProject1.BaseClass
     public class BaseClass
     {
         private static readonly ILog Logger = Log4NetHelper.GetXmlLogger(typeof(BaseClass));
+        
 
         private static FirefoxProfile GetFirefoxptions()
         {
@@ -65,8 +67,8 @@ namespace DemoProject1.BaseClass
             return driver;
         }
 
-
-        [AssemblyInitialize]
+        //[BeforeFeature()]
+       [AssemblyInitialize]
         public static void InitWebdriver(TestContext tc)
         {
             ObjectRepository.Config = new AppConfigReader();
@@ -118,6 +120,7 @@ namespace DemoProject1.BaseClass
         //}
 
         [AssemblyCleanup]
+        //[AfterScenario()]
         public static void TearDown()
         {
            

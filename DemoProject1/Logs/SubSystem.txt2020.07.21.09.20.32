@@ -1,0 +1,15 @@
+21-Jul-2020-09:20:32 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //a[contains(text(),'Email Template')]
+21-Jul-2020-09:20:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@id='mat-input-0']
+21-Jul-2020-09:20:34 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxRandy
+21-Jul-2020-09:20:35 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@id='mat-input-2']
+21-Jul-2020-09:20:35 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxPrimustest
+21-Jul-2020-09:20:36 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //textarea[@id='mat-input-3']
+21-Jul-2020-09:20:36 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxtest
+21-Jul-2020-09:20:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@ng-reflect-placeholder='From']
+21-Jul-2020-09:20:38 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxabc@gmail.com
+21-Jul-2020-09:20:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@ng-reflect-placeholder='To']
+21-Jul-2020-09:20:39 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxxyz@gmail.com
+21-Jul-2020-09:20:40 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@ng-reflect-placeholder='Cc']
+21-Jul-2020-09:20:40 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxxyz@gmail.com
+21-Jul-2020-09:20:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@ng-reflect-placeholder='Subject']
+21-Jul-2020-09:20:42 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxLeave Request

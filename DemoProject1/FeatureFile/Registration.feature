@@ -2,7 +2,7 @@
 Background: Pre-Condition
 Given User Is at Homepage
 
-@mytag	
+@ignore 	
 Scenario Outline: Registration Scenario of Demo Webpage
 #steps: Give steps 
 When User Provide the "<FirstName>", "<LastName>","<Phonenumber>" And Click On the Submit Button

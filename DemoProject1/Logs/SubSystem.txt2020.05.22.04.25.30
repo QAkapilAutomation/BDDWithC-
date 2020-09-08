@@ -1,0 +1,3 @@
+22-May-2020-04:25:30 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,130)
+22-May-2020-04:25:32 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Template Listing with Sorting and Filtering.jpeg2020-05-22-25-32
+22-May-2020-04:25:32 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

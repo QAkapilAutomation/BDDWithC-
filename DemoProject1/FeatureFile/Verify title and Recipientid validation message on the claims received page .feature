@@ -5,7 +5,7 @@
 	When user click on the repoerter schedule link
 
 
-@mytag
+ 
 Scenario: Verify title and Recipientid textbox validation message on the claims received page
 	When User click on the Short Term Disability Standard Reports
 	Then Short Term Disability Standard Reports list should be open

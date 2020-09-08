@@ -1,0 +1,10 @@
+06-Aug-2020-08:55:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[@class='sub-route route-title animate__animated animate__slideInDown ng-tns-c155-1'][contains(text(),'Add')]
+06-Aug-2020-08:55:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Aug-2020-08:55:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+06-Aug-2020-08:55:04 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[@class='sub-route route-title animate__animated animate__slideInDown ng-tns-c155-1'][contains(text(),'Add')]
+06-Aug-2020-08:55:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h5[contains(text(),'Employment Details')]
+06-Aug-2020-08:55:14 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,685)
+06-Aug-2020-08:55:20 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Test2020-08-06-55-20
+06-Aug-2020-08:55:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()=' 101 - T-Mobile ']
+06-Aug-2020-08:55:20 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,662)
+06-Aug-2020-08:55:20 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

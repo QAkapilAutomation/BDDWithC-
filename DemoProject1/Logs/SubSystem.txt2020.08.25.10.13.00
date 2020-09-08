@@ -1,0 +1,12 @@
+25-Aug-2020-10:13:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@id='mat-input-2']
+25-Aug-2020-10:13:01 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxPrimusTest
+25-Aug-2020-10:13:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: (//mat-option)[1]
+25-Aug-2020-10:13:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+25-Aug-2020-10:13:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+25-Aug-2020-10:13:02 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: (//mat-option)[1]
+25-Aug-2020-10:13:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //textarea[@name='description']
+25-Aug-2020-10:13:04 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxThis is test template 
+25-Aug-2020-10:13:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Save']
+25-Aug-2020-10:13:14 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.XPath: //span[text()='Save']
+25-Aug-2020-10:13:19 [DemoProject1.ComponentHelper.AssertHelper] [INFO] [AreEqual] - Actaual result is equal to expected result
+25-Aug-2020-10:13:19 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

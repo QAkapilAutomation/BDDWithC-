@@ -1,0 +1,10 @@
+11-Aug-2020-06:21:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //mat-select[@id='mat-select-1']
+11-Aug-2020-06:21:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-06:21:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-06:21:00 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //mat-select[@id='mat-select-1']
+11-Aug-2020-06:21:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[@class='mat-option-text'][contains(text(),'Name')]
+11-Aug-2020-06:21:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Aug-2020-06:21:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Aug-2020-06:21:03 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[@class='mat-option-text'][contains(text(),'Name')]
+11-Aug-2020-06:21:43 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : List of template searched by Name.jpeg2020-08-11-21-43
+11-Aug-2020-06:21:44 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

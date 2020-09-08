@@ -1,0 +1,7 @@
+27-Aug-2020-04:59:05 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxDevtest0827_0458
+27-Aug-2020-04:59:05 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus Test
+27-Aug-2020-04:59:05 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxDocument
+27-Aug-2020-04:59:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Save']
+27-Aug-2020-04:59:12 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.XPath: //span[text()='Save']
+27-Aug-2020-04:59:16 [DemoProject1.ComponentHelper.AssertHelper] [INFO] [AreEqual] - Actaual result is equal to expected result
+27-Aug-2020-04:59:17 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

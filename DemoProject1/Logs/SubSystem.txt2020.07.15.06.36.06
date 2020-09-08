@@ -1,0 +1,9 @@
+15-Jul-2020-06:36:09 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+15-Jul-2020-06:36:11 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+15-Jul-2020-06:36:12 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://adminfronendsandbox.s3-website-us-east-1.amazonaws.com/clients/add
+15-Jul-2020-06:36:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: (//mat-select)[1]
+15-Jul-2020-06:36:18 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: (//mat-select)[1]
+15-Jul-2020-06:36:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='Search']
+15-Jul-2020-06:36:19 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxArizon
+15-Jul-2020-06:36:21 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : drop testing.jpeg2020-07-15-36-21
+15-Jul-2020-06:36:23 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

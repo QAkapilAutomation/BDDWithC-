@@ -1,0 +1,10 @@
+15-Jul-2020-06:22:13 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+15-Jul-2020-06:22:15 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+15-Jul-2020-06:22:15 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://adminfronendsandbox.s3-website-us-east-1.amazonaws.com/clients/add
+15-Jul-2020-06:22:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: (//mat-select)[1]
+15-Jul-2020-06:22:22 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: (//mat-select)[1]
+15-Jul-2020-06:22:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='Search']
+15-Jul-2020-06:22:23 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxArizon
+15-Jul-2020-06:22:26 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='zipCode']
+15-Jul-2020-06:22:26 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textbox7676786
+15-Jul-2020-06:22:27 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

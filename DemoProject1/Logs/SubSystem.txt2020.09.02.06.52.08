@@ -1,0 +1,4 @@
+02-Sep-2020-06:52:08 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_Test
+02-Sep-2020-06:52:11 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_Test
+02-Sep-2020-06:52:56 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Create new category.jpeg2020-09-02-52-56
+02-Sep-2020-06:52:56 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

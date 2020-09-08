@@ -1,0 +1,7 @@
+15-Jul-2020-06:19:19 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+15-Jul-2020-06:19:21 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+15-Jul-2020-06:19:22 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://adminfronendsandbox.s3-website-us-east-1.amazonaws.com/clients/add
+15-Jul-2020-06:19:22 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: (//mat-select)[1]
+15-Jul-2020-06:19:29 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: (//mat-select)[1]
+15-Jul-2020-06:19:39 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='Search']
+15-Jul-2020-06:19:39 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxArizon

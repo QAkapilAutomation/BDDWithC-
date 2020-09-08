@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using log4net;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,15 +10,18 @@ namespace DemoProject1.ComponentHelper
 {
    public  class AssertHelper
     {
-        public static bool AreEqual(string actualresult ,string expectedresult)
+        private static readonly ILog Logger = Log4NetHelper.GetXmlLogger(typeof(AssertHelper));
+        public static Boolean AreEqual(string actualresult ,string expectedresult)
         {
-            try
+            if(actualresult.Equals(expectedresult))
             {
-                Assert.AreEqual(actualresult, expectedresult);
+                Logger.Info("Actaual result is equal to expected result");
                 return true;
+                
             }
-            catch (Exception)
+            else 
             {
+                Logger.Info("Actaual result is not equal to expected result");
                 return false; 
             }
 

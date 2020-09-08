@@ -1,0 +1,8 @@
+06-Aug-2020-06:01:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Aug-2020-06:01:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+06-Aug-2020-06:01:06 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[@class='route-title animate__animated animate__slideInDown ng-tns-c155-1'][contains(text(),'Eligibility')]
+06-Aug-2020-06:01:08 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[@class='sub-route route-title animate__animated animate__slideInDown ng-tns-c155-1'][contains(text(),'Add')]
+06-Aug-2020-06:01:08 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Aug-2020-06:01:08 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+06-Aug-2020-06:01:10 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Create eligibility data.jpeg2020-08-06-01-10
+06-Aug-2020-06:01:11 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

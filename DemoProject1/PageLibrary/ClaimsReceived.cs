@@ -88,8 +88,8 @@ namespace DemoProject1.PageLibrary
         private readonly IWebElement LeaveStartDate;
 
 
-        [FindsBy(How = How.Id, Using = "mat-select-2")]
-        private readonly IWebElement LocationCode;
+        [FindsBy(How = How.Id, Using = "mat-option-4")]
+        private  readonly IWebElement LocationCode;
 
 
         public ClaimsReceived(IWebDriver _driver)
@@ -99,9 +99,9 @@ namespace DemoProject1.PageLibrary
 
         }
 
-        public void ClickOnShortTermDisabilityStandardReports()
+        public  void ClickOnShortTermDisabilityStandardReports()
         {
-            ShortTermDisabilityStandardReports.Click();
+            LinkHelper.click(LocationCode);
 
         }
 

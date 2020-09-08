@@ -1,0 +1,5 @@
+29-Jul-2020-07:03:28 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+29-Jul-2020-07:03:30 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+29-Jul-2020-07:03:31 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Word Template Properties with Attachement.jpeg2020-07-29-03-31
+29-Jul-2020-07:03:33 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Word Template Properties without Attachement.jpeg2020-07-29-03-33
+29-Jul-2020-07:03:33 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

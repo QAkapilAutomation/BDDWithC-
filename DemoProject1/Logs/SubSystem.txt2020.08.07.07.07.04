@@ -1,0 +1,8 @@
+07-Aug-2020-07:07:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h5[contains(text(),'Employment Details')]
+07-Aug-2020-07:07:04 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,685)
+07-Aug-2020-07:07:09 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Test2020-08-07-07-09
+07-Aug-2020-07:07:10 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()=' 101 - T-Mobile ']
+07-Aug-2020-07:07:10 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,664)
+07-Aug-2020-07:07:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@formcontrolname='employeePreviousEmployerName']
+07-Aug-2020-07:07:15 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxhgdsajas
+07-Aug-2020-07:07:25 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

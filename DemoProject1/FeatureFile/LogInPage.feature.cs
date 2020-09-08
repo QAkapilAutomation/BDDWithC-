@@ -98,9 +98,11 @@ testRunner.Given("User Is at Homepage", ((string)(null)), ((TechTalk.SpecFlow.Ta
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestMethodAttribute()]
         [Microsoft.VisualStudio.TestTools.UnitTesting.DescriptionAttribute("Login Scenario of Demo Webpage")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("FeatureTitle", "login feature for Demo Website")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.IgnoreAttribute()]
         public virtual void LoginScenarioOfDemoWebpage()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Login Scenario of Demo Webpage", null, ((string[])(null)));
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Login Scenario of Demo Webpage", null, new string[] {
+                        "ignore"});
 #line 5
 this.ScenarioInitialize(scenarioInfo);
             this.ScenarioStart();

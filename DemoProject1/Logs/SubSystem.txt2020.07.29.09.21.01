@@ -1,0 +1,6 @@
+29-Jul-2020-09:21:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[contains(text(),'continue')]
+29-Jul-2020-09:21:01 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[contains(text(),'continue')]
+29-Jul-2020-09:21:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Save']
+29-Jul-2020-09:21:05 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.XPath: //span[text()='Save']
+29-Jul-2020-09:21:50 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : 3 Merge Fields selection ability from Merge Fields list in Template Body and Subject.jpeg2020-07-29-21-50
+29-Jul-2020-09:21:51 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

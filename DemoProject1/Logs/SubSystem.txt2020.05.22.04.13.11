@@ -1,0 +1,8 @@
+22-May-2020-04:13:11 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,130)
+22-May-2020-04:13:13 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Template listing should get displayed.jpeg2020-05-22-13-13
+22-May-2020-04:13:14 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://sandbox-doc-temp-frontend.s3-website-us-east-1.amazonaws.com/
+22-May-2020-04:13:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Email Template']
+22-May-2020-04:13:14 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,130)
+22-May-2020-04:13:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Email Template']
+22-May-2020-04:13:16 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Template Listing with Sorting and Filtering.jpeg2020-05-22-13-16
+22-May-2020-04:13:16 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

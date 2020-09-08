@@ -1,0 +1,5 @@
+29-Jul-2020-07:09:01 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+29-Jul-2020-07:09:02 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Email Template Properties with Attachment.jpeg2020-07-29-09-02
+29-Jul-2020-07:09:03 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Email Template Properties without Attachment.jpeg2020-07-29-09-03
+29-Jul-2020-07:09:03 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : 3 Merge Fields selection ability from Merge Fields list in Template Body and Subject.jpeg2020-07-29-09-03
+29-Jul-2020-07:09:04 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

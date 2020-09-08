@@ -1,0 +1,4 @@
+06-Aug-2020-08:15:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //*[@id='mat-select-3']
+06-Aug-2020-08:15:05 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,831)
+06-Aug-2020-08:15:07 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Create eligibility data.jpeg2020-08-06-15-07
+06-Aug-2020-08:15:08 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

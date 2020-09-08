@@ -1,0 +1,19 @@
+07-Aug-2020-11:13:06 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+07-Aug-2020-11:13:08 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+07-Aug-2020-11:13:08 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://adminfronendsandbox.s3-website-us-east-1.amazonaws.com/
+07-Aug-2020-11:13:13 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[@class='route-title animate__animated animate__slideInDown ng-tns-c155-1'][contains(text(),'Eligibility')]
+07-Aug-2020-11:13:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Aug-2020-11:13:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+07-Aug-2020-11:13:15 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[@class='route-title animate__animated animate__slideInDown ng-tns-c155-1'][contains(text(),'Eligibility')]
+07-Aug-2020-11:13:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[@class='sub-route route-title animate__animated animate__slideInDown ng-tns-c155-1'][contains(text(),'Add')]
+07-Aug-2020-11:13:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Aug-2020-11:13:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+07-Aug-2020-11:13:20 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[@class='sub-route route-title animate__animated animate__slideInDown ng-tns-c155-1'][contains(text(),'Add')]
+07-Aug-2020-11:13:30 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h5[contains(text(),'Employment Details')]
+07-Aug-2020-11:13:30 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,685)
+07-Aug-2020-11:13:35 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Test2020-08-07-13-35
+07-Aug-2020-11:13:36 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()=' 101 - T-Mobile ']
+07-Aug-2020-11:13:36 [DemoProject1.ComponentHelper.JavaScriptExecutor] [INFO] [ExecuteScript] -  Execute Script @ window.scrollTo(0,662)
+07-Aug-2020-11:13:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@formcontrolname='employeePreviousEmployerName']
+07-Aug-2020-11:13:41 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxhgdsajas
+07-Aug-2020-11:13:51 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

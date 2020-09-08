@@ -60,6 +60,7 @@ namespace DemoProject1.ComponentHelper
 
         }
 
+
         public static IWebElement GetElement(By locator)
         {
             if (IsElemetPresent(locator))

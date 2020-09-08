@@ -27,5 +27,11 @@ namespace DemoProject1.ComponentHelper
 
 
         }
+
+        public static void Sendkeys(IWebElement element, String text)
+        {
+            element.SendKeys(text);
+            Logger.Info("Type in the textbox" + text);
+        }
     }
 }

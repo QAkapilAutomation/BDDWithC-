@@ -1,0 +1,6 @@
+26-Aug-2020-07:42:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //textarea[@name='description']
+26-Aug-2020-07:42:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxDocument
+26-Aug-2020-07:42:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Save']
+26-Aug-2020-07:42:06 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.XPath: //span[text()='Save']
+26-Aug-2020-07:42:51 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Word Template Properties without Attachement.jpeg2020-08-26-42-51
+26-Aug-2020-07:42:51 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

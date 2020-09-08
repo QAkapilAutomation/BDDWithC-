@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -65,8 +66,9 @@ namespace DemoProject1.ComponentHelper
                 Layout = GetPatternLayout(),
                 Threshold = Level.All,
                 AppendToFile = true,
-                File = "FileLogger.log",
-            };
+                File = @"C:\Users\KAPIL\source\repos\DemoProject1\DemoProject1\Logs\FileLogger\SubSystem" + DateTime.UtcNow.ToString("yyyy.MM.dd.hh.mm.ss") +".log",
+               
+        };
             fileAppender.ActivateOptions();
             return fileAppender;
         }
@@ -81,7 +83,7 @@ namespace DemoProject1.ComponentHelper
                 Layout = GetPatternLayout(),
                 Threshold = Level.All,
                 MaximumFileSize = "1MB",
-                MaxSizeRollBackups = 1//file1.log,file2.log.....file15.log
+                MaxSizeRollBackups = 1
             };
             rollingAppender.ActivateOptions();
             return rollingAppender;

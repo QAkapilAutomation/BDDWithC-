@@ -1,0 +1,4 @@
+26-May-2020-06:58:03 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+26-May-2020-06:58:07 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+26-May-2020-06:58:10 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tbody/tr[1]/td[1]
+26-May-2020-06:58:43 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

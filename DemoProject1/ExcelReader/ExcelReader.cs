@@ -15,6 +15,11 @@ namespace DemoProject1.ExcelReader
         private static FileStream stream;
         private static IExcelDataReader reader;
 
+        internal static object GetCellData(object xlPath, string v1, int v2, int v3)
+        {
+            throw new NotImplementedException();
+        }
+
         static ExcelReaderHelper()
         {
             _cache = new Dictionary<string, IExcelDataReader>();

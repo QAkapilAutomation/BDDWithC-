@@ -19,7 +19,7 @@ namespace DemoProject1.StepDefination
         [When(@"User click on the Short Term Disability Standard Reports")]
         public void WhenUserClickOnTheShortTermDisabilityStandardReports()
         {
-            cRpage.ClickOnShortTermDisabilityStandardReports();
+            
         }
 
         [Then(@"Short Term Disability Standard Reports list should be open")]

@@ -16,9 +16,15 @@ namespace DemoProject1.ComponentHelper
         public static void ClickLink(By Locator)
         {
             element = GenericHelper.GetElement(Locator);
+            GenericHelper.WaitForWebElement(Locator, TimeSpan.FromSeconds(60));
             element.Click();
             Logger.Info(" Clicking on link : " + Locator);
 
+        }
+        public static void click(IWebElement element)
+        {
+            element.Click();
+            Logger.Info(" Clicking on link : " + element);
         }
         }
 }

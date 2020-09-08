@@ -1,0 +1,6 @@
+29-Apr-2020-10:06:00 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+29-Apr-2020-10:06:04 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+29-Apr-2020-10:06:05 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page file:///C:/Users/KAPIL/Documents/Application/parent.html
+29-Apr-2020-10:06:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text()='Report Scheduler']
+29-Apr-2020-10:06:47 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Verify the title for scedule list page.jpeg2020-04-29-06-47
+29-Apr-2020-10:06:47 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

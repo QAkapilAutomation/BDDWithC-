@@ -1,0 +1,8 @@
+04-Sep-2020-05:06:01 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+04-Sep-2020-05:06:02 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+04-Sep-2020-05:06:09 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 0e9140dc-22f6-47d3-a86e-a92f292fa414)
+04-Sep-2020-05:06:13 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [ThenIShouldBeOnCategoryPopup] - Category page is open
+04-Sep-2020-05:06:13 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_Test
+04-Sep-2020-05:06:13 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [WhenIEnterTheCategoryNameInTheCategoryTextBox] - Entering data in the category text box
+04-Sep-2020-05:06:18 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_Test
+04-Sep-2020-05:06:18 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [ThenCategoryShouldBeAddedInListingPage] - Searching for the category in the listing

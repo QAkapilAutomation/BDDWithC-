@@ -1,0 +1,6 @@
+26-Aug-2020-07:44:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //textarea[@name='description']
+26-Aug-2020-07:44:01 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxThis is test template 
+26-Aug-2020-07:44:11 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Save']
+26-Aug-2020-07:44:11 [DemoProject1.ComponentHelper.ButtonHelper] [INFO] [ClickOnButton] -  Button Click @ By.XPath: //span[text()='Save']
+26-Aug-2020-07:44:15 [DemoProject1.ComponentHelper.AssertHelper] [INFO] [AreEqual] - Actaual result is equal to expected result
+26-Aug-2020-07:44:15 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

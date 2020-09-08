@@ -1,0 +1,5 @@
+06-Aug-2020-06:18:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/app-root/admin-landing/section/div/app-create-eligibility/form/div/mat-accordion/mat-expansion-panel[2]/div/div/mat-form-field[1]/div/div[1]/div/mat-select
+06-Aug-2020-06:18:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+06-Aug-2020-06:18:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+06-Aug-2020-06:18:04 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Create eligibility data.jpeg2020-08-06-18-04
+06-Aug-2020-06:18:04 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
