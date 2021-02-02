@@ -1,0 +1,11 @@
+09-Sep-2020-11:05:24 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Sep-2020-11:05:26 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+09-Sep-2020-11:05:26 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+09-Sep-2020-11:05:26 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Sep-2020-11:05:38 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+09-Sep-2020-11:05:41 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript
+09-Sep-2020-11:05:43 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = ef3d87c5-8b2c-44b9-ba76-91a5cb89c4e6)
+09-Sep-2020-11:05:45 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 9ac7ae06-11da-4e95-bdeb-81d1f2c609ea)
+09-Sep-2020-11:05:49 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxscript1234Update
+09-Sep-2020-11:05:49 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxthis is new test tempalate
+09-Sep-2020-11:05:49 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

@@ -1,0 +1,29 @@
+14-Sep-2020-10:07:00 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-10:07:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:07:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:07:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tbody/tr[1]/td[1]
+14-Sep-2020-10:07:05 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTemplateShouldBeSelectedFromTemplateList] - Template is selected
+14-Sep-2020-10:07:05 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-10:07:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:07:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:07:13 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxQAAutomation
+14-Sep-2020-10:07:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tbody/tr[1]/td[1]
+14-Sep-2020-10:07:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:07:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:07:17 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Email Composer page should display with Merged Data and Filled Properties.jpeg2020-09-14-07-17
+14-Sep-2020-10:07:17 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-10:07:17 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:07:21 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:07:23 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 2c6b8d31-8631-44e2-9652-714076a8d1fc)
+14-Sep-2020-10:07:25 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 89588191-e474-4884-a111-c3ec0b83e3f2)
+14-Sep-2020-10:07:25 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div/table/tbody/tr[5]/td[1]
+14-Sep-2020-10:07:25 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenAllListOfTheEmailTemplateAppears] - Email template listing is visible
+14-Sep-2020-10:07:25 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-10:07:25 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:07:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:07:34 [DemoProject1.PageLibrary.Merge_Email_And_Template] [INFO] [verifyShortingOnName] - value of beforeText=Dir2.1
+14-Sep-2020-10:07:37 [DemoProject1.PageLibrary.Merge_Email_And_Template] [INFO] [verifyShortingOnName] - value of afterText=Abc123
+14-Sep-2020-10:07:37 [DemoProject1.PageLibrary.Merge_Email_And_Template] [INFO] [verifyShortingOnName] - Shorting is working 
+14-Sep-2020-10:07:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div/table/tbody/tr[5]/td[1]
+14-Sep-2020-10:07:37 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTemplateListingAlongWithFilterAndSortingOptionAppear_] - Email template listing is visible
+14-Sep-2020-10:07:37 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

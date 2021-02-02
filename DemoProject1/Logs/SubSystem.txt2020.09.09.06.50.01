@@ -1,0 +1,7 @@
+09-Sep-2020-06:50:01 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 24125d39-3e4b-43bf-a7bd-2f576d4ce7b9)
+09-Sep-2020-06:50:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='templateName']
+09-Sep-2020-06:50:02 [DemoProject1.DTS_StepDefination.CreateNewScriptTemplate] [INFO] [ThenIShouldBeOnScriptTemplatePage] - I am on the script templete page
+09-Sep-2020-06:50:04 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript0909_0649
+09-Sep-2020-06:50:04 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxThis is test template 
+09-Sep-2020-06:50:19 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : ScriptTemplate Properties without Attachement.jpeg2020-09-09-50-19
+09-Sep-2020-06:50:19 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

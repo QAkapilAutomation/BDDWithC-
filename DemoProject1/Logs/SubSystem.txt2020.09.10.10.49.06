@@ -1,0 +1,14 @@
+10-Sep-2020-10:49:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-10:49:06 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxAutomation_kapil
+10-Sep-2020-10:49:12 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Word Template Properties with Attachement.jpeg2020-09-10-49-12
+10-Sep-2020-10:49:12 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+10-Sep-2020-10:49:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-10:49:21 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-10:49:21 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxAutomation_kapil
+10-Sep-2020-10:49:27 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 1547af2d-b78e-49a0-a744-d7e23c82bb2a)
+10-Sep-2020-10:49:29 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxDevtest0910_104921
+10-Sep-2020-10:49:29 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxDocument
+10-Sep-2020-10:49:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-10:49:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-10:49:34 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 4da08711-7ecf-4e31-a5e4-5b32949eb0b0)
+10-Sep-2020-10:49:42 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

@@ -1,0 +1,18 @@
+10-Sep-2020-07:44:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxabc@gmail.com
+10-Sep-2020-07:44:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+10-Sep-2020-07:44:01 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+10-Sep-2020-07:44:01 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxLeave Request
+10-Sep-2020-07:44:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='attachContainer']
+10-Sep-2020-07:44:03 [DemoProject1.ComponentHelper.CheckBoxHelper] [INFO] [IsCheckBoxChecked] -  Is CheckBox Checked : By.XPath: //input[@name='attachContainer']
+10-Sep-2020-07:44:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@class='mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin']
+10-Sep-2020-07:44:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:44:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:44:03 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //div[@class='mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin']
+10-Sep-2020-07:44:08 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:44:08 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:44:08 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 05ead75d-e42c-4e7a-bddd-e016c323b08e)
+10-Sep-2020-07:44:18 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']
+10-Sep-2020-07:44:18 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxQAAutomation0910_0743
+10-Sep-2020-07:44:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:44:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:44:21 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTheEmailTemplateShouldBePresent] - Unable to find saved Word template on homepage list

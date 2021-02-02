@@ -1,0 +1,19 @@
+10-Sep-2020-08:51:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-08:51:03 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = db3fd729-819a-44d6-a160-ec81348d8e5e)
+10-Sep-2020-08:51:05 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxQAAutomation0910_0850
+10-Sep-2020-08:51:06 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxtest
+10-Sep-2020-08:51:07 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxabc@gmail.com
+10-Sep-2020-08:51:07 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+10-Sep-2020-08:51:07 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+10-Sep-2020-08:51:07 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxLeave Request
+10-Sep-2020-08:51:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='attachContainer']
+10-Sep-2020-08:51:09 [DemoProject1.ComponentHelper.CheckBoxHelper] [INFO] [IsCheckBoxChecked] -  Is CheckBox Checked : By.XPath: //input[@name='attachContainer']
+10-Sep-2020-08:51:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@class='mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin']
+10-Sep-2020-08:51:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-08:51:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-08:51:09 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //div[@class='mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin']
+10-Sep-2020-08:51:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-08:51:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-08:51:14 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = a5d01b74-8b95-425b-8fab-5de7cefd9590)
+10-Sep-2020-08:51:39 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Email Template Properties without Attachment.jpeg2020-09-10-51-39
+10-Sep-2020-08:51:40 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

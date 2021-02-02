@@ -1,0 +1,8 @@
+08-Sep-2020-12:46:39 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+08-Sep-2020-12:46:41 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+08-Sep-2020-12:46:42 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+08-Sep-2020-12:46:54 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 39dad48f-bf94-4efe-833c-76cc024435df)
+08-Sep-2020-12:46:54 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='templateName']
+08-Sep-2020-12:46:55 [DemoProject1.DTS_StepDefination.CreateNewScriptTemplate] [INFO] [ThenIShouldBeOnScriptTemplatePage] - I am on the script templete page
+08-Sep-2020-12:46:57 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript0908_1246
+08-Sep-2020-12:46:57 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxThis is test template 

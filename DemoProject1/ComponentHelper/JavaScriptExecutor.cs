@@ -1,4 +1,5 @@
-﻿using DemoProject1.Setting;
+﻿using DemoProject1.BaseClass;
+using DemoProject1.Setting;
 using log4net;
 using OpenQA.Selenium;
 using System;
@@ -38,14 +39,14 @@ namespace DemoProject1.ComponentHelper
         {
             IWebElement element = GenericHelper.GetElement(locator);
             ExecuteScript("window.scrollTo(0," + element.Location.Y + ")");
-            Thread.Sleep(300);
+            Thread.Sleep(4000);
             element.Click();
         }
         public static void ScrollToAndClickX(By locator)
         {
             IWebElement element = GenericHelper.GetElement(locator);
             ExecuteScript("window.scrollTo(0," + element.Location.X + ")");
-            Thread.Sleep(300);
+            Thread.Sleep(3000);
             element.Click();
         }
         public static void JsClick(By locator)
@@ -54,6 +55,12 @@ namespace DemoProject1.ComponentHelper
             executor.ExecuteScript("arguments[0].click();", locator);
         }
 
+        public static void SelectByJs( IWebElement element, String dateVal)
+        {
+            IJavaScriptExecutor js = ((IJavaScriptExecutor)ObjectRepository.Driver);
+            js.ExecuteScript("arguments[0].setAttribute('value','" + dateVal + "');", element);
+
+        }
 
     }
 }

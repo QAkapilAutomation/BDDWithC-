@@ -1,0 +1,29 @@
+14-Sep-2020-05:37:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tbody/tr[1]/td[1]
+14-Sep-2020-05:37:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-05:37:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+14-Sep-2020-05:37:01 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //tbody/tr[1]/td[1]
+14-Sep-2020-05:37:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button//span[text()=' Merge & Email ']
+14-Sep-2020-05:37:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-05:37:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+14-Sep-2020-05:37:03 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //button//span[text()=' Merge & Email ']
+14-Sep-2020-05:37:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='from']
+14-Sep-2020-05:37:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='toEmail']
+14-Sep-2020-05:37:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Cc']
+14-Sep-2020-05:37:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Subject']
+14-Sep-2020-05:37:05 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTheEmailComposerPageAppearsWithMergedDataAndFilledProperties] - Form textfiled is present on the page
+14-Sep-2020-05:37:05 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-05:37:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-05:37:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-05:37:09 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-05:37:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-05:37:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+14-Sep-2020-05:37:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Name ']
+14-Sep-2020-05:37:10 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Group ']
+14-Sep-2020-05:37:50 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Updated On ']
+14-Sep-2020-05:37:50 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //th[text()=' Action ']
+14-Sep-2020-05:37:50 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-05:37:50 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-05:37:55 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-05:37:55 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-05:37:55 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-05:37:55 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 

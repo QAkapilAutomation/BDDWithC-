@@ -1,0 +1,5 @@
+08-Sep-2020-06:51:26 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+08-Sep-2020-06:51:26 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+08-Sep-2020-06:51:26 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 2832ee3b-51a0-43e8-a30d-eacea0bcbf85)
+08-Sep-2020-06:51:32 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : ScriptTemplate Properties without Attachement.jpeg2020-09-08-51-32
+08-Sep-2020-06:51:32 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

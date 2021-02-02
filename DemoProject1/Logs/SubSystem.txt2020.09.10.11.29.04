@@ -1,0 +1,33 @@
+10-Sep-2020-11:29:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:29:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:29:04 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 499ead9d-a259-48f1-abad-6ff009900ded)
+10-Sep-2020-11:29:12 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+10-Sep-2020-11:29:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:29:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:29:16 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 94802c27-dd85-48bd-b473-9f2699c9fb13)
+10-Sep-2020-11:29:18 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxDevtest0910_112916
+10-Sep-2020-11:29:18 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxDocument
+10-Sep-2020-11:29:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:29:24 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:29:24 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = d78e48c2-c155-42ea-b998-79f0cd9061e9)
+10-Sep-2020-11:29:32 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+10-Sep-2020-11:29:32 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:29:35 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:29:36 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 3586406b-e842-45a2-bd0f-2de6f85dc19f)
+10-Sep-2020-11:29:38 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxQAAutomation0910_112932
+10-Sep-2020-11:29:38 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxtest
+10-Sep-2020-11:29:40 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxabc@gmail.com
+10-Sep-2020-11:29:40 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+10-Sep-2020-11:29:40 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+10-Sep-2020-11:29:40 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxLeave Request
+10-Sep-2020-11:29:42 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='attachContainer']
+10-Sep-2020-11:29:42 [DemoProject1.ComponentHelper.CheckBoxHelper] [INFO] [IsCheckBoxChecked] -  Is CheckBox Checked : By.XPath: //input[@name='attachContainer']
+10-Sep-2020-11:29:42 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@class='mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin']
+10-Sep-2020-11:29:42 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:29:42 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:29:42 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //div[@class='mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin']
+10-Sep-2020-11:29:47 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:29:47 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:29:47 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 4a863a1d-7e03-42f9-bcff-dab1e9a24a6e)
+10-Sep-2020-11:29:58 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']
+10-Sep-2020-11:29:59 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxQAAutomation0910_112932

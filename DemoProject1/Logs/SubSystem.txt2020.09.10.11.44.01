@@ -1,0 +1,36 @@
+10-Sep-2020-11:44:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:44:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:44:01 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTheEmailTemplateShouldBePresent] - Unable to find saved Word template on homepage list
+10-Sep-2020-11:44:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tr[1]/td[4]/button/span/i
+10-Sep-2020-11:44:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:44:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:44:03 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //tr[1]/td[4]/button/span/i
+10-Sep-2020-11:44:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[contains(text(),'Delete')]
+10-Sep-2020-11:44:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:44:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:44:05 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //button[contains(text(),'Delete')]
+10-Sep-2020-11:44:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[contains(text(),' Yes ')]
+10-Sep-2020-11:44:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:44:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:44:07 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[contains(text(),' Yes ')]
+10-Sep-2020-11:44:09 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[contains(text(),'Okay')]
+10-Sep-2020-11:44:11 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:44:11 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:44:11 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[contains(text(),'Okay')]
+10-Sep-2020-11:44:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']
+10-Sep-2020-11:44:12 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [ClearText] - Clear in the textbox
+10-Sep-2020-11:44:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']
+10-Sep-2020-11:44:12 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxQAAutomation0910_114332
+10-Sep-2020-11:44:15 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTheEmailTemplateShouldBeDeletedFromTheDatabase] - Verified that the templates has been deleted successfully
+10-Sep-2020-11:44:15 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+10-Sep-2020-11:44:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:44:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:44:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:44:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:44:24 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 9435ae95-f17d-4b70-a2ab-9c76c2582f7e)
+10-Sep-2020-11:44:26 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [ThenIShouldBeOnCategoryPopup] - Category page is open
+10-Sep-2020-11:44:26 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxAutomation0910_114423
+10-Sep-2020-11:44:26 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [WhenIEnterTheCategoryNameInTheCategoryTextBox] - Entering data in the category text box
+10-Sep-2020-11:44:31 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Category added successfully!']
+10-Sep-2020-11:44:31 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [ThenCategoryShouldBeAddedInListingPage] - Category added successfully
+10-Sep-2020-11:44:32 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

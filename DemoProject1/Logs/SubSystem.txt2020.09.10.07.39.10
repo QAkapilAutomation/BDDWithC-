@@ -1,0 +1,23 @@
+10-Sep-2020-07:39:13 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+10-Sep-2020-07:39:15 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+10-Sep-2020-07:39:16 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+10-Sep-2020-07:39:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:39:37 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:39:37 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = b4175ff1-9b0d-4085-a906-0baa02c13615)
+10-Sep-2020-07:39:40 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxQAAutomation0910_0739
+10-Sep-2020-07:39:40 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxtest
+10-Sep-2020-07:39:41 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxabc@gmail.com
+10-Sep-2020-07:39:41 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+10-Sep-2020-07:39:41 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxxyz@gmail.com
+10-Sep-2020-07:39:41 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxLeave Request
+10-Sep-2020-07:39:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='attachContainer']
+10-Sep-2020-07:39:43 [DemoProject1.ComponentHelper.CheckBoxHelper] [INFO] [IsCheckBoxChecked] -  Is CheckBox Checked : By.XPath: //input[@name='attachContainer']
+10-Sep-2020-07:39:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@class='mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin']
+10-Sep-2020-07:39:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:39:43 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:39:43 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //div[@class='mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin']
+10-Sep-2020-07:39:48 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:39:48 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:39:48 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 5cd9c2eb-0ee6-4c50-95fe-779ff54368d8)
+10-Sep-2020-07:39:59 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']
+10-Sep-2020-07:39:59 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxQAAutomation0910_0739

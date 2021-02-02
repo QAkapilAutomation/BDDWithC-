@@ -1,0 +1,2 @@
+14-Sep-2020-05:08:30 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //th[text()=' Action ']
+14-Sep-2020-05:08:31 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search in Template...']

@@ -1,0 +1,11 @@
+10-Sep-2020-07:51:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:51:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:51:01 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 21ea1581-9731-4575-a34a-932899c6c05e)
+10-Sep-2020-07:51:11 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']
+10-Sep-2020-07:51:12 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxQAAutomation0910_0750
+10-Sep-2020-07:51:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:51:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:51:14 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTheEmailTemplateShouldBePresent] - Unable to find saved Word template on homepage list
+10-Sep-2020-07:51:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tr[7]/td[4]/button/span/i]
+10-Sep-2020-07:51:15 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : 1  Ability to delete a email template.jpeg2020-09-10-51-15
+10-Sep-2020-07:51:15 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

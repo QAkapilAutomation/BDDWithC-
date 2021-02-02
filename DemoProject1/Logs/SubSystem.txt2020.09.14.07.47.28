@@ -1,0 +1,9 @@
+14-Sep-2020-07:47:31 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+14-Sep-2020-07:47:33 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+14-Sep-2020-07:47:34 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-07:47:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-07:47:46 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-07:47:58 [DemoProject1.PageLibrary.Merge_Email_And_Template] [INFO] [verifyShortingOnName] - Shorting is working 
+14-Sep-2020-07:47:58 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div/table/tbody/tr[5]/td[1]
+14-Sep-2020-07:47:58 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTemplateListingAlongWithFilterAndSortingOptionAppear_] - Email template listing is visible
+14-Sep-2020-07:47:59 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

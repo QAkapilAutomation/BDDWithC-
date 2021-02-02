@@ -1,0 +1,5 @@
+09-Sep-2020-07:09:14 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = d1b3a634-95f2-48b7-b9f2-27085ccf628e)
+09-Sep-2020-07:09:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='templateName']
+09-Sep-2020-07:09:15 [DemoProject1.DTS_StepDefination.CreateNewScriptTemplate] [INFO] [ThenIShouldBeOnScriptTemplatePage] - I am on the script templete page
+09-Sep-2020-07:09:17 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript0909_0708
+09-Sep-2020-07:09:19 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxThis is test template 

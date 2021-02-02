@@ -1,0 +1,13 @@
+10-Sep-2020-06:28:17 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+10-Sep-2020-06:28:19 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+10-Sep-2020-06:28:19 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+10-Sep-2020-06:28:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-06:28:50 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-06:28:50 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-06:28:50 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-06:28:51 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_test
+10-Sep-2020-06:28:53 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[@class='mat-button-wrapper']//i
+10-Sep-2020-06:28:55 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = bae1744a-3aac-4da2-b4cb-6c459e749fac)
+10-Sep-2020-06:28:57 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [ThenIShouldBeOnCategoryPopup] - Category page is open
+10-Sep-2020-06:28:57 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxPrimus_test
+10-Sep-2020-06:28:57 [DemoProject1.DTS_StepDefination.CreateNewCategory] [INFO] [WhenIEnterTheCategoryNameInTheCategoryTextBox] - Entering data in the category text box

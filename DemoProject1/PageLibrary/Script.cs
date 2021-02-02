@@ -5,6 +5,8 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.PageObjects;
+using Sikuli4Net.sikuli_REST;
+using Sikuli4Net.sikuli_UTIL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,7 +26,14 @@ namespace DemoProject1.PageLibrary
         [FindsBy(How = How.XPath, Using = "//span[text()='Script has been saved.']")]
         private readonly IWebElement SuccessMessage;
 
-        
+        [FindsBy(How = How.XPath, Using = "//span[text()='Update']")]
+        private readonly IWebElement updateButton;
+
+
+
+        //span[text()='Update']
+
+
         public Script(IWebDriver _driver) : base(_driver)
         {
             PageFactory.InitElements(_driver, this);
@@ -38,43 +47,29 @@ namespace DemoProject1.PageLibrary
             return status;
         }
 
-        public void verifySuccessMessage()
+        public Boolean verifySuccessMessage()
         {
-            Thread.Sleep(2000);
-            String actualMessage=SuccessMessage.Text;
-            Console.WriteLine(actualMessage);
-           //return AssertHelper.AreEqual(actualMessage, "Scripts");
-           Assert.AreEqual("Script has been saved.", actualMessage);
+            //    Thread.Sleep(2000);
+            //    String actualMessage=SuccessMessage.Text;
+            //    Console.WriteLine(actualMessage);
+            //   //return AssertHelper.AreEqual(actualMessage, "Scripts");
+            //   Assert.AreEqual("Script has been saved.", actualMessage);
+            return GenericHelper.IsElemetPresent(By.XPath("//span[text()='Script has been saved.']"));
             
         }
 
         public void mergeField()
         {
-
-             //Actions builder = new Actions(driver.Browser.Instance);
-            Actions action = new Actions(ObjectRepository.Driver);
+            IWebElement ele = ObjectRepository.Driver.FindElement(By.XPath("//div[text()=' User.User_First_Name ']"));
             Thread.Sleep(2000);
-            IWebElement drag = ObjectRepository.Driver.FindElement(By.XPath("//div[text()=' User.User_First_Name ']"));
+            ele.Click();
             Thread.Sleep(2000);
-            IWebElement drop= ObjectRepository.Driver.FindElement(By.XPath("//div[@data-placeholder='Compose you script ...']//p"));
-
-            //IAction dragAndDrop = action.ClickAndHold(drag)
-            //    .MoveByOffset(-1, -1)
-            //    .MoveToElement(drop)
-            //    .Release(drop)
-            //    .Build();
-            //Thread.Sleep(2000);
-            //dragAndDrop.Perform();
-            action.ClickAndHold(drag)
-            .MoveByOffset(-1, -1) 
-            .MoveToElement(drop, drop.Location.X + drop.Size.Width / 2, drop.Location.Y + drop.Size.Height / 2)
-            .Release(drop)
-            .Build()
-            .Perform();
-            Thread.Sleep(2000);
-
-
-
+            SikuliHelper.ClickOnImage(@"D:\sk\image1.PNG");
+            for(int i=1; i <= 5; i++)
+            {
+                ele.Click();
+            }
+        
         }
 
 

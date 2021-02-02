@@ -1,0 +1,21 @@
+14-Sep-2020-04:50:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-04:50:08 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxQAAutomation
+14-Sep-2020-04:50:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tr[1]/td[1]/span
+14-Sep-2020-04:50:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-04:50:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+14-Sep-2020-04:50:13 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //tr[1]/td[1]/span
+14-Sep-2020-04:50:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()=' Merge & Email ']
+14-Sep-2020-04:50:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-04:50:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+14-Sep-2020-04:50:15 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[text()=' Merge & Email ']
+14-Sep-2020-04:50:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //label[text()='Attachment']
+14-Sep-2020-04:50:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-04:50:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+14-Sep-2020-04:50:19 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //label[text()='Attachment']
+14-Sep-2020-04:50:24 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTheFileIsAttached_] - upload file
+14-Sep-2020-04:50:27 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Send']
+14-Sep-2020-04:50:27 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-04:50:27 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+14-Sep-2020-04:50:27 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[text()='Send']
+14-Sep-2020-04:50:27 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTheFileIsAttached_] - click on send button
+14-Sep-2020-04:50:29 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

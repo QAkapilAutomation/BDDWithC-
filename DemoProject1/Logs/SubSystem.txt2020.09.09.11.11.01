@@ -1,0 +1,7 @@
+09-Sep-2020-11:11:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+09-Sep-2020-11:11:04 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript
+09-Sep-2020-11:11:06 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 490aa99a-5c9b-4ca3-8c66-b8a33bcba7b3)
+09-Sep-2020-11:11:08 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = da21de44-d1b0-4711-a427-faa943823ca0)
+09-Sep-2020-11:11:12 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxscript1234Update
+09-Sep-2020-11:11:12 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxthis is new test tempalate
+09-Sep-2020-11:11:16 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

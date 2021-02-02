@@ -1,0 +1,38 @@
+14-Sep-2020-10:58:03 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-10:58:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:58:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:58:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tbody/tr[1]/td[1]
+14-Sep-2020-10:58:07 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTemplateShouldBeSelectedFromTemplateList] - Template is selected
+14-Sep-2020-10:58:07 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-10:58:07 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:58:10 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:58:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxQAAutomation
+14-Sep-2020-10:58:18 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tbody/tr[1]/td[1]
+14-Sep-2020-10:58:18 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:58:18 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:58:18 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //tbody/tr[1]/td[1]
+14-Sep-2020-10:58:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button//span[text()=' Merge & Email ']
+14-Sep-2020-10:58:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:58:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:58:20 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //button//span[text()=' Merge & Email ']
+14-Sep-2020-10:58:22 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='from']
+14-Sep-2020-10:58:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='toEmail']
+14-Sep-2020-10:58:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Cc']
+14-Sep-2020-10:58:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Subject']
+14-Sep-2020-10:58:23 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTheEmailComposerPageAppearsWithMergedDataAndFilledProperties] - Form textfiled is present on the page
+14-Sep-2020-10:58:23 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-10:58:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:58:26 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:58:28 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 9c6be93d-cbb4-4c6c-873a-4610f493b610)
+14-Sep-2020-10:58:30 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 2b128634-a997-479d-990e-bd50bb9f1ebc)
+14-Sep-2020-10:58:30 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div/table/tbody/tr[5]/td[1]
+14-Sep-2020-10:58:30 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenAllListOfTheEmailTemplateAppears] - Email template listing is visible
+14-Sep-2020-10:58:30 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-10:58:30 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:58:34 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:58:39 [DemoProject1.PageLibrary.Merge_Email_And_Template] [INFO] [verifyShortingOnName] - value of beforeText=Dir2.1
+14-Sep-2020-10:58:41 [DemoProject1.PageLibrary.Merge_Email_And_Template] [INFO] [verifyShortingOnName] - value of afterText=Abc123
+14-Sep-2020-10:58:41 [DemoProject1.PageLibrary.Merge_Email_And_Template] [INFO] [verifyShortingOnName] - Shorting is working 
+14-Sep-2020-10:58:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div/table/tbody/tr[5]/td[1]
+14-Sep-2020-10:58:41 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTemplateListingAlongWithFilterAndSortingOptionAppear_] - Email template listing is visible
+14-Sep-2020-10:58:41 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

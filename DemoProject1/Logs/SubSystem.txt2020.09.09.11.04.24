@@ -1,0 +1,8 @@
+09-Sep-2020-11:04:27 [DemoProject1.BaseClass.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+09-Sep-2020-11:04:29 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+09-Sep-2020-11:04:30 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+09-Sep-2020-11:04:30 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Sep-2020-11:04:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+09-Sep-2020-11:04:44 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript
+09-Sep-2020-11:04:47 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : ScriptTemplate update.jpeg2020-09-09-04-47
+09-Sep-2020-11:04:47 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

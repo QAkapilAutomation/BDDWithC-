@@ -1,0 +1,11 @@
+11-Sep-2020-07:48:18 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Updated On ']
+11-Sep-2020-07:48:18 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //th[text()=' Action ']
+11-Sep-2020-07:48:18 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+11-Sep-2020-07:48:18 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Sep-2020-07:48:24 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+11-Sep-2020-07:48:24 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+11-Sep-2020-07:48:24 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Sep-2020-07:48:24 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Sep-2020-07:48:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[contains(text(),'Email Template')]
+11-Sep-2020-07:48:30 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Template Listing with Sorting and Filtering.jpeg2020-09-11-48-30
+11-Sep-2020-07:48:30 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

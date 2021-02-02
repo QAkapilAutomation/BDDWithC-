@@ -1,0 +1,10 @@
+14-Sep-2020-04:58:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button//span[text()=' Merge & Email ']
+14-Sep-2020-04:58:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-04:58:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+14-Sep-2020-04:58:01 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //button//span[text()=' Merge & Email ']
+14-Sep-2020-04:58:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='from']
+14-Sep-2020-04:58:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='toEmail']
+14-Sep-2020-04:58:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Cc']
+14-Sep-2020-04:58:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Subject']
+14-Sep-2020-04:58:03 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTheEmailComposerPageAppearsWithMergedDataAndFilledProperties] - Form textfiled is present on the page
+14-Sep-2020-04:58:04 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

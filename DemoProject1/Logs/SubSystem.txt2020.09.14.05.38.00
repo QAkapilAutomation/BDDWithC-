@@ -1,0 +1,5 @@
+14-Sep-2020-05:38:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Name ']
+14-Sep-2020-05:38:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Group ']
+14-Sep-2020-05:38:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Updated On ']
+14-Sep-2020-05:38:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //th[text()=' Action ']
+14-Sep-2020-05:38:41 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search in Template...']

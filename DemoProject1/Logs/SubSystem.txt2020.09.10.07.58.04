@@ -1,0 +1,30 @@
+10-Sep-2020-07:58:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:58:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:58:04 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 053a7803-4132-474a-8871-b2e7bf4eab35)
+10-Sep-2020-07:58:14 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']
+10-Sep-2020-07:58:14 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxQAAutomation0910_0757
+10-Sep-2020-07:58:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:58:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:58:16 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTheEmailTemplateShouldBePresent] - Saved Word template is present on searching at home page
+10-Sep-2020-07:58:16 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tr[1]/td[4]/button/span/i
+10-Sep-2020-07:58:17 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:58:17 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:58:17 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //tr[1]/td[4]/button/span/i
+10-Sep-2020-07:58:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[contains(text(),'Delete')]
+10-Sep-2020-07:58:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:58:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:58:19 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //button[contains(text(),'Delete')]
+10-Sep-2020-07:58:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[contains(text(),' Yes ')]
+10-Sep-2020-07:58:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:58:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:58:20 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[contains(text(),' Yes ')]
+10-Sep-2020-07:58:22 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[contains(text(),'Okay')]
+10-Sep-2020-07:58:22 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:58:22 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:58:22 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [ClickLink] -  Clicking on link : By.XPath: //span[contains(text(),'Okay')]
+10-Sep-2020-07:58:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']
+10-Sep-2020-07:58:23 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [ClearText] - Clear in the textbox
+10-Sep-2020-07:58:23 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']
+10-Sep-2020-07:58:23 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [TypeInTexBox] - Type in the textboxQAAutomation0910_0757
+10-Sep-2020-07:58:24 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTheEmailTemplateShouldBeDeletedFromTheDatabase] - Verified that the templates has been deleted successfully
+10-Sep-2020-07:58:24 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

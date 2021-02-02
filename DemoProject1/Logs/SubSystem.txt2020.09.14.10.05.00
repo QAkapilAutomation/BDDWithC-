@@ -1,0 +1,12 @@
+14-Sep-2020-10:05:00 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 3b397665-1254-4347-a9ec-d1e5a31e1398)
+14-Sep-2020-10:05:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div/table/tbody/tr[5]/td[1]
+14-Sep-2020-10:05:00 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenAllListOfTheEmailTemplateAppears] - Email template listing is visible
+14-Sep-2020-10:05:00 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-10:05:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-10:05:04 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-10:05:09 [DemoProject1.PageLibrary.Merge_Email_And_Template] [INFO] [verifyShortingOnName] - value of beforeText=Dir2.1
+14-Sep-2020-10:05:12 [DemoProject1.PageLibrary.Merge_Email_And_Template] [INFO] [verifyShortingOnName] - value of afterText=Abc123
+14-Sep-2020-10:05:12 [DemoProject1.PageLibrary.Merge_Email_And_Template] [INFO] [verifyShortingOnName] - Shorting is working 
+14-Sep-2020-10:05:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div/table/tbody/tr[5]/td[1]
+14-Sep-2020-10:05:12 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTemplateListingAlongWithFilterAndSortingOptionAppear_] - Email template listing is visible
+14-Sep-2020-10:05:12 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

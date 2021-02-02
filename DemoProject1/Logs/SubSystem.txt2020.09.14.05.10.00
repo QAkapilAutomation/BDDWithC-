@@ -1,0 +1,3 @@
+14-Sep-2020-05:10:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[@class='split-btn']
+14-Sep-2020-05:10:00 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTemplateListingAlongWithFilterAndSortingOptionAppear_] - Name filter is visible
+14-Sep-2020-05:10:00 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

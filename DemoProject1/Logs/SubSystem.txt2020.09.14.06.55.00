@@ -1,0 +1,6 @@
+14-Sep-2020-06:55:00 [DemoProject1.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] - Browser Maximize
+14-Sep-2020-06:55:00 [DemoProject1.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://disability-dts-sandbox.primussoft.com/?_token=2
+14-Sep-2020-06:55:00 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+14-Sep-2020-06:55:12 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-06:55:13 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Template listing should get displayed.jpeg2020-09-14-55-13
+14-Sep-2020-06:55:13 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

@@ -66,7 +66,8 @@ namespace DemoProject1.ComponentHelper
                 Layout = GetPatternLayout(),
                 Threshold = Level.All,
                 AppendToFile = true,
-                File = @"C:\Users\KAPIL\source\repos\DemoProject1\DemoProject1\Logs\FileLogger\SubSystem" + DateTime.UtcNow.ToString("yyyy.MM.dd.hh.mm.ss") +".log",
+                File = @"E:\DemoProject1\DemoProject1\Logs\FileLogger\DigitalDesk" + DateTime.UtcNow.ToString("yyyy.MM.dd.hh.mm.ss") +".log",
+                
                
         };
             fileAppender.ActivateOptions();

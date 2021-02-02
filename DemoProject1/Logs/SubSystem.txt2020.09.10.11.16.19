@@ -1,0 +1,6 @@
+10-Sep-2020-11:16:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-11:16:19 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-11:16:20 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = aa717cea-ca90-4258-818d-78585b81b3c6)
+10-Sep-2020-11:16:20 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Script has been saved.']
+10-Sep-2020-11:16:22 [DemoProject1.DTS_StepDefination.CreateNewScriptTemplate] [INFO] [ThenIShouldSeeTheScriptHasBeenSaved] - Script template saved sucussefully
+10-Sep-2020-11:16:23 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

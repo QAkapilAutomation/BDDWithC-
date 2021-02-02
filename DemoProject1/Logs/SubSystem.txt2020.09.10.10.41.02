@@ -1,0 +1,13 @@
+10-Sep-2020-10:41:02 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-10:41:02 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxAutomation_kapil
+10-Sep-2020-10:41:05 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = a145f806-772e-481a-8e37-c0693b82b42a)
+10-Sep-2020-10:41:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='templateName']
+10-Sep-2020-10:41:06 [DemoProject1.DTS_StepDefination.CreateNewScriptTemplate] [INFO] [ThenIShouldBeOnScriptTemplatePage] - I am on the script templete page
+10-Sep-2020-10:41:08 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript0910_1041
+10-Sep-2020-10:41:08 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxThis is test template 
+10-Sep-2020-10:41:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-10:41:29 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+10-Sep-2020-10:41:30 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 75185372-4323-429d-84b1-0d1b48445cdf)
+10-Sep-2020-10:41:30 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //span[text()='Script has been saved.']
+10-Sep-2020-10:41:31 [DemoProject1.DTS_StepDefination.CreateNewScriptTemplate] [INFO] [ThenIShouldSeeTheScriptHasBeenSaved] - Script template saved sucussefully
+10-Sep-2020-10:41:32 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

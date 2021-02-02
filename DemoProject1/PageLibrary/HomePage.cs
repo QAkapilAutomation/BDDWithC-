@@ -34,6 +34,28 @@ namespace DemoProject1.PageLibrary
         [FindsBy(How = How.XPath, Using = "//input[@placeholder='Search...']")]
         private readonly IWebElement searchTextBox;
 
+        [FindsBy(How = How.XPath, Using = "//mat-select[@role='listbox']")]
+        private readonly IWebElement listBox;
+
+        [FindsBy(How = How.XPath, Using = "//mat-option[@role='option']//span[text()='Script']")]
+        private readonly IWebElement listBox_Script;
+
+
+        [FindsBy(How = How.XPath, Using = "//tbody/tr[1]/td[4]/button/span/i")]
+        private readonly IWebElement action_Button;
+
+        [FindsBy(How = How.XPath, Using = "//button[contains(text(),'Edit')]")]
+        private readonly IWebElement editButton;
+
+        [FindsBy(How = How.XPath, Using = "//tr/td[1]/span/span")]
+        private readonly IWebElement categoryName;
+
+
+
+        //tbody/tr[1]/td[4]/button/span/i
+        //button[contains(text(),'Edit')]
+
+
 
 
         //a[contains(text(),'Category')]
@@ -78,8 +100,34 @@ namespace DemoProject1.PageLibrary
 
         public void searchInSerchBox(string text)
         {
+            searchTextBox.Clear();
             TextBoxHelper.Sendkeys(searchTextBox, text);
         }
+
+        public void clickOnListBox()
+        {
+            listBox.Click();
+        }
+        public void clickOnScript_List()
+        {
+            listBox_Script.Click();
+        }
+
+        public void clickOnActionButton()
+        {
+            LinkHelper.click(action_Button);
+        }
+
+        public void clickOnEditButton()
+        {
+            LinkHelper.click(editButton);
+        }
+        
+        public void clickOnCategory()
+        {
+            categoryName.Click();
+        }
+
 
     }
 }

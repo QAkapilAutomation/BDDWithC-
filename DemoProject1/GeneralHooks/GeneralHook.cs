@@ -2,6 +2,7 @@
 using AventStack.ExtentReports.Gherkin.Model;
 using AventStack.ExtentReports.Reporter;
 using DemoProject1.ComponentHelper;
+using log4net.Repository.Hierarchy;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -21,7 +22,7 @@ namespace DemoProject1.GeneralHooks
         private static ExtentTest feature;
         private static ExtentTest scenario;
         public static ExtentTest test;
-        private static string ApplicationDebuggingFolder => @"C:\Users\KAPIL\source\repos\DemoProject1\DemoProject1\Reports\reports";
+        private static string ApplicationDebuggingFolder => @"E:\DemoProject1\DemoProject1\Reports\reports";
         public static string LatestResultsReportFolder { get; set; }
         private static ExtentReports ReportManager { get; set; }
         private static string HtmlReportFullPath { get; set; }
@@ -37,13 +38,13 @@ namespace DemoProject1.GeneralHooks
             HtmlReportFullPath = $"{LatestResultsReportFolder}\\TestResults.html";
             extentHtmlReporter = new ExtentHtmlReporter(HtmlReportFullPath);
             extentReports = new ExtentReports();
-            extentReports.AddSystemInfo("HostName", "Kapil Window");
+            extentReports.AddSystemInfo("HostName", "Window");
             extentReports.AddSystemInfo("UserName", "Kapil");
             extentReports.AddSystemInfo("Environment", "QA");
             extentReports.AddSystemInfo("OS", "Window10");
             extentReports.AttachReporter(extentHtmlReporter);
-           test = extentReports.CreateTest("logs" +
-               "");
+          // test = extentReports.CreateTest("logs" +
+            //   "");
 
 
         }

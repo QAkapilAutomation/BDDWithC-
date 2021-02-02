@@ -1,0 +1,8 @@
+10-Sep-2020-07:40:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+10-Sep-2020-07:40:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+10-Sep-2020-07:40:01 [DemoProject1.DTS_StepDefination.CreateNewEmailTemplate] [INFO] [ThenTheEmailTemplateShouldBePresent] - Saved Word template is present on searching at home page
+10-Sep-2020-07:40:42 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']
+10-Sep-2020-07:40:42 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [ClearText] - Clear in the textbox
+10-Sep-2020-07:40:42 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']']
+10-Sep-2020-07:40:43 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : 1  Ability to delete a email template.jpeg2020-09-10-40-43
+10-Sep-2020-07:40:43 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

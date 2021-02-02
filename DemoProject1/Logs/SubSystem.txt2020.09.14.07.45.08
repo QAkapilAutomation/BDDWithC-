@@ -1,0 +1,5 @@
+14-Sep-2020-07:45:08 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+14-Sep-2020-07:45:15 [DemoProject1.PageLibrary.Merge_Email_And_Template] [INFO] [verifyShortingOnName] - Shorting is working 
+14-Sep-2020-07:45:15 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div/table/tbody/tr[5]/td[1]
+14-Sep-2020-07:45:15 [DemoProject1.StepDefination.Merge_Email_And_Templete] [INFO] [ThenTemplateListingAlongWithFilterAndSortingOptionAppear_] - Email template listing is visible
+14-Sep-2020-07:45:15 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

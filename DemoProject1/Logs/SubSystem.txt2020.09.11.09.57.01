@@ -1,0 +1,9 @@
+11-Sep-2020-09:57:01 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+11-Sep-2020-09:57:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Sep-2020-09:57:03 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Sep-2020-09:57:03 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxQAAutomation
+11-Sep-2020-09:57:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //tbody/tr[1]/td[1]
+11-Sep-2020-09:57:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+11-Sep-2020-09:57:05 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+11-Sep-2020-09:57:07 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : Ability to Change/Edit the pre-filled information/data.jpeg2020-09-11-57-07
+11-Sep-2020-09:57:07 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

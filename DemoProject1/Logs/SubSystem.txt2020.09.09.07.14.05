@@ -1,0 +1,9 @@
+09-Sep-2020-07:14:05 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = a1cafcaf-3625-4953-9c51-3899582528b7)
+09-Sep-2020-07:14:06 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name='templateName']
+09-Sep-2020-07:14:06 [DemoProject1.DTS_StepDefination.CreateNewScriptTemplate] [INFO] [ThenIShouldBeOnScriptTemplatePage] - I am on the script templete page
+09-Sep-2020-07:14:09 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript0909_0713
+09-Sep-2020-07:14:09 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxThis is test template 
+09-Sep-2020-07:14:26 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Sep-2020-07:14:26 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Sep-2020-07:14:26 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 0ff0f745-cbc1-48ac-90bd-2b024c78be2d)
+09-Sep-2020-07:14:30 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

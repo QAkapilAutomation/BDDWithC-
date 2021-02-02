@@ -1,0 +1,3 @@
+14-Sep-2020-04:59:33 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //button[text()=' Updated On ']
+14-Sep-2020-04:59:33 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //th[text()=' Action ']
+14-Sep-2020-04:59:33 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

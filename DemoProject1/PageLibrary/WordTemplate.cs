@@ -43,6 +43,7 @@ namespace DemoProject1.PageLibrary
 
         public void typeinTemplateName(String name)
         {
+            templateName.Clear();
             TextBoxHelper.Sendkeys(templateName, name);
         }
         public void typeinGroupName(String Group)
@@ -52,6 +53,7 @@ namespace DemoProject1.PageLibrary
         }
         public void typeindescription(String des)
         {
+            description.Clear();
             TextBoxHelper.Sendkeys(description, des);
         }
         public void AttachFile()

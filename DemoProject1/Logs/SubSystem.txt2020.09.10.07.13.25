@@ -1,0 +1,5 @@
+10-Sep-2020-07:13:25 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']
+10-Sep-2020-07:13:25 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [ClearText] - Clear in the textbox
+10-Sep-2020-07:13:25 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@placeholder='Search...']']
+10-Sep-2020-07:13:26 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : 1  Ability to delete a email template.jpeg2020-09-10-13-26
+10-Sep-2020-07:13:26 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

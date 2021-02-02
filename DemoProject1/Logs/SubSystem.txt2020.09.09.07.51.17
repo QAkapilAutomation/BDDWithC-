@@ -1,0 +1,4 @@
+09-Sep-2020-07:51:17 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+09-Sep-2020-07:51:17 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+09-Sep-2020-07:51:19 [DemoProject1.ComponentHelper.TakeScreenShots] [INFO] [CaptureScreenshoots] -  ScreenShot Taken : ScriptTemplate Properties without Attachement.jpeg2020-09-09-51-19
+09-Sep-2020-07:51:20 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

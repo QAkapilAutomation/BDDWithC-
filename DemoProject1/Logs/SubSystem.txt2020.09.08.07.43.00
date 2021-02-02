@@ -1,0 +1,6 @@
+08-Sep-2020-07:43:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxScript0908_0742
+08-Sep-2020-07:43:00 [DemoProject1.ComponentHelper.TextBoxHelper] [INFO] [Sendkeys] - Type in the textboxThis is test template 
+08-Sep-2020-07:43:10 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+08-Sep-2020-07:43:10 [DemoProject1.ComponentHelper.GenericHelper] [INFO] [WaitForWebElement] -  Setting the Explicit wait Configured value 
+08-Sep-2020-07:43:10 [DemoProject1.ComponentHelper.LinkHelper] [INFO] [click] -  Clicking on link : Element (id = 268f89fd-40b4-4ea4-8522-d16ab685d675)
+08-Sep-2020-07:43:19 [DemoProject1.BaseClass.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

@@ -4,6 +4,7 @@ using DemoProject1.ComponentHelper;
 using DemoProject1.Configuration;
 using DemoProject1.CustomException;
 using DemoProject1.Setting;
+using Google.Protobuf.WellKnownTypes;
 using log4net;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
@@ -20,7 +21,8 @@ using TechTalk.SpecFlow;
 
 namespace DemoProject1.BaseClass
 {
-    [TestClass]
+    //[TestClass]
+    [Binding]
     public class BaseClass
     {
         private static readonly ILog Logger = Log4NetHelper.GetXmlLogger(typeof(BaseClass));
@@ -38,6 +40,8 @@ namespace DemoProject1.BaseClass
 
             ChromeOptions option = new ChromeOptions();
             option.AddArgument("start-maximized");
+            option.AddUserProfilePreference("disable-popup-blocking", "true");
+            option.AddArguments("--disable-notifications");
             option.PageLoadStrategy = PageLoadStrategy.None;
             return option;
         }
@@ -68,7 +72,8 @@ namespace DemoProject1.BaseClass
         }
 
         //[BeforeFeature()]
-       [AssemblyInitialize]
+        [BeforeScenario]
+        //[AssemblyInitialize]
         public static void InitWebdriver(TestContext tc)
         {
             ObjectRepository.Config = new AppConfigReader();
@@ -104,23 +109,11 @@ namespace DemoProject1.BaseClass
 
         }
 
-       
 
-        ////public TestContext TestContext { get; set; }
 
-        //[TestCleanup]
-        //public void TestCleanup()
-        //{
-        //    if (TestContext.CurrentTestOutcome == UnitTestOutcome.Passed)
-        //    {
-
-        //    }else
-                       
-        //        TakeScreenShots.TakeScreenShot1();
-        //}
-
-        [AssemblyCleanup]
-        //[AfterScenario()]
+       // [TestCleanup]
+        //[AssemblyCleanup]
+        [AfterScenario()]
         public static void TearDown()
         {
            
@@ -128,6 +121,7 @@ namespace DemoProject1.BaseClass
             {
                 
                 ObjectRepository.Driver.Quit();
+                //ObjectRepository.Driver.Close();
             }
             Logger.Info(" Stopping the Driver  ");
         }
