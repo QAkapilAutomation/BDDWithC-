@@ -2,6 +2,7 @@
 using DemoProject1.ExcelReader;
 using DemoProject1.Setting;
 using log4net;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
 using System;
@@ -65,16 +66,29 @@ namespace DemoProject1.DigitalDesk_StepDefination
         [Then(@"the system should show claim details related to that claim")]
         public void ThenTheSystemShouldShowClaimDetailsRelatedToThatClaim()
         {
+            Thread.Sleep(4000);
             String actaualClaimNumber = ObjectRepository.Driver.FindElement(By.XPath("(//div[@class='value'])[8]")).Text.ToString();
+            Logger.Info("actaual Claim Number is " + actaualClaimNumber);
+            Assert.AreEqual(ClaimNumber, actaualClaimNumber);
+            Logger.Info("ClaimNumber is found on the page");
             String actauallossDate = ObjectRepository.Driver.FindElement(By.XPath("(//div[@class='value'])[9]")).Text.ToString();
+            Logger.Info("actaual loss date is " + actauallossDate);
             String actaualperil = ObjectRepository.Driver.FindElement(By.XPath("(//div[@class='value'])[10]")).Text.ToString();
+            Logger.Info("actaual perli Number is " + actaualperil);
             String actaualclaimStatus = ObjectRepository.Driver.FindElement(By.XPath("(//div[@class='value'])[11]")).Text.ToString();
+            Logger.Info("actaual Claim status is " + actaualclaimStatus);
             String actaualreceivedDate = ObjectRepository.Driver.FindElement(By.XPath("(//div[@class='value'])[12]")).Text.ToString();
+            Logger.Info("actaual received date is " + actaualreceivedDate);
             String actaualcarrierName = ObjectRepository.Driver.FindElement(By.XPath("(//div[@class='value'])[13]")).Text.ToString();
+            Logger.Info("actaual carrier Number is " + actaualcarrierName);
             String actualNotes = ObjectRepository.Driver.FindElement(By.XPath("//div[2]/div[7]/span")).Text.ToString();
+            Logger.Info("actaual notes  is " + actualNotes);
             String actualPolicyHolder = ObjectRepository.Driver.FindElement(By.XPath("(//div[@class='value'])[14]")).Text.ToString();
+            Logger.Info("actaual policy holder name is " + actualPolicyHolder);
             String actualPolicyHolderEmail = ObjectRepository.Driver.FindElement(By.XPath("(//div[@class='value'])[15]")).Text.ToString();
+            Logger.Info("actaual policy holder email is " + actualPolicyHolderEmail);
             String actualPolicyHolderMobile = ObjectRepository.Driver.FindElement(By.XPath("(//div[@class='value'])[16]")).Text.ToString();
+            Logger.Info("actaual policy holder mobile is " + actualPolicyHolderMobile);
 
 
 
